@@ -1,0 +1,13223 @@
+1	
+SRB	
+Novak Djokovic
+35	8,660	
+13	250	0
+2	
+RUS	
+Daniil Medvedev
+26	7,980	
+22	0	0
+3	
+GER	
+Alexander Zverev
+25	7,075	
+-125
+21	0	0
+4	
+GRE	
+Stefanos Tsitsipas
+23	5,965	
+-205
+24	0	0
+5	
+ESP	
+Rafael Nadal
+35	5,525	
+10	0	0
+6	
+ESP	
+Carlos Alcaraz
+19	4,648	
+-122
+20	0	0
+7	
+RUS	
+Andrey Rublev
+24	3,945	
+26	0	0
+8	
+NOR	
+Casper Ruud
+23	3,940	
+28	0	0
+9	
+CAN	
+Felix Auger-Aliassime
+21	3,820	
+-30
+26	0	0
+10	
+ITA	
+Matteo Berrettini
+26	3,805	
+18	0	0
+11	
+GBR	
+Cameron Norrie
+26	3,455	
++100
+27	0	0
+12	
+ITA	
+Jannik Sinner
+20	3,185	
+-10
+29	0	0
+13	
+POL	
+Hubert Hurkacz
+25	3,095	
+26	17	10
+14	
+USA	
+Taylor Fritz
+24	2,920	
+27	0	0
+15	
+CAN	
+Denis Shapovalov
+23	2,531	
+-140
+22	0	0
+16	
+ARG	
+Diego Schwartzman
+29	2,505	
+24	0	0
+17	
++1
+USA	
+Reilly Opelka
+24	2,180	
++90
+25	0	0
+18	
+-1
+ESP	
+Pablo Carreno Busta
+30	2,135	
+24	0	0
+19	
+ESP	
+Roberto Bautista Agut
+34	1,903	
+23	0	0
+20	
++1
+AUS	
+Alex de Minaur
+23	1,838	
++67
+28	0	0
+21	
+-1
+BUL	
+Grigor Dimitrov
+31	1,740	
+-45
+23	0	0
+22	
+FRA	
+Gael Monfils
+35	1,715	
+-20
+22	0	0
+23	
+CRO	
+Marin Cilic
+33	1,695	
+23	0	0
+24	
++1
+GEO	
+Nikoloz Basilashvili
+30	1,628	
+-25
+30	0	0
+25	
+-1
+RUS	
+Karen Khachanov
+26	1,620	
+-45
+28	0	0
+26	
+USA	
+John Isner
+37	1,616	
+20	0	0
+27	
+USA	
+Frances Tiafoe
+24	1,599	
+27	0	0
+28	
+ESP	
+Alejandro Davidovich Fokina
+22	1,400	
+28	0	0
+29	
+NED	
+Botic van de Zandschulp
+26	1,344	
+31	0	0
+30	
+USA	
+Sebastian Korda
+21	1,326	
+-10
+27	250	10
+31	
+SRB	
+Miomir Kecmanovic
+22	1,316	
+30	0	0
+32	
+GBR	
+Daniel Evans
+32	1,232	
+32	63	20
+33	
+USA	
+Tommy Paul
+25	1,218	
+30	90	20
+34	
+USA	
+Jenson Brooksby
+21	1,207	
+22	0	0
+35	
+ITA	
+Lorenzo Sonego
+27	1,190	
+29	0	0
+36	
++2
+ARG	
+Sebastian Baez
+21	1,178	
++29
+33	0	0
+37	
+-1
+CHI	
+Cristian Garin
+25	1,168	
+25	0	0
+38	
++9
+SVK	
+Alex Molcan
+24	1,163	
++134
+32	162	16
+39	
+-2
+RSA	
+Lloyd Harris
+25	1,160	
+-3
+26	0	0
+40	
+DEN	
+Holger Rune
+19	1,159	
++70
+36	30	20
+41	
+-2
+RUS	
+Aslan Karatsev
+28	1,128	
+31	0	0
+42	
+-1
+KAZ	
+Alexander Bublik
+24	1,083	
+32	0	0
+43	
+ESP	
+Pedro Martinez
+25	1,070	
+34	32	20
+44	
+-2
+ESP	
+Albert Ramos-Vinolas
+34	1,058	
+-13
+35	0	0
+45	
+-1
+ARG	
+Francisco Cerundolo
+23	1,051	
++10
+34	0	0
+46	
+-1
+FRA	
+Ugo Humbert
+23	1,044	
++10
+27	0	0
+47	
+-1
+SUI	
+Roger Federer
+40	1,030	
+4	0	0
+48	
+BEL	
+David Goffin
+31	1,023	
+23	0	0
+49	
+USA	
+Marcos Giron
+28	1,011	
+29	0	0
+50	
+BLR	
+Ilya Ivashka
+28	1,010	
++13
+28	0	0
+51	
++1
+ITA	
+Fabio Fognini
+34	976	
+-10
+26	0	0
+52	
++1
+FRA	
+Benjamin Bonzi
+25	971	
+32	0	0
+53	
++1
+GER	
+Daniel Altmaier
+23	970	
+43	0	0
+54	
++5
+ARG	
+Federico Coria
+30	967	
++30
+37	69	30
+55	
++1
+SRB	
+Filip Krajinovic
+30	965	
+24	0	0
+56	
+-5
+SRB	
+Laslo Djere
+26	956	
+-35
+29	0	0
+57	
+-2
+HUN	
+Marton Fucsovics
+30	955	
+-10
+28	0	0
+58	
++6
+NED	
+Tallon Griekspoor
+25	949	
++37
+31	0	0
+59	
++1
+GER	
+Oscar Otte
+28	947	
++12
+31	0	0
+60	
+-2
+USA	
+Mackenzie McDonald
+27	941	
+28	0	0
+61	
+FIN	
+Emil Ruusuvuori
+23	920	
+36	0	0
+62	
++1
+USA	
+Maxime Cressy
+25	914	
+38	0	0
+63	
++16
+POR	
+Joao Sousa
+33	906	
++138
+31	0	0
+64	
++2
+SRB	
+Dusan Lajovic
+31	896	
+30	45	10
+65	
+-3
+ARG	
+Federico Delbonis
+31	894	
+-25
+32	90	10
+66	
+-9
+ITA	
+Lorenzo Musetti
+20	867	
+-80
+33	20	3
+67	
++2
+GBR	
+Andy Murray
+35	865	
+23	0	0
+68	
+-3
+FRA	
+Arthur Rinderknech
+26	862	
+-45
+34	0	0
+69	
++4
+FRA	
+Adrian Mannarino
+33	858	
++20
+30	0	0
+70	
++5
+FRA	
+Richard Gasquet
+35	853	
++45
+30	45	23
+71	
+KOR	
+Soonwoo Kwon
+24	852	
++4
+29	0	0
+72	
+-2
+AUS	
+James Duckworth
+30	848	
+25	0	0
+73	
+-1
+CZE	
+Jiri Vesely
+28	847	
+33	20	10
+74	
+-6
+FRA	
+Hugo Gaston
+21	828	
+-39
+31	0	0
+75	
+-1
+USA	
+Brandon Nakashima
+20	827	
+-10
+23	0	0
+76	
+AUS	
+Nick Kyrgios
+27	803	
+11	0	0
+77	
+CZE	
+Jiri Lehecka
+20	801	
+37	20	7
+78	
+-11
+FRA	
+Benoit Paire
+33	784	
+-105
+36	0	0
+79	
++2
+POL	
+Kamil Majchrzak
+26	775	
++13
+28	0	0
+80	
+-2
+CHI	
+Alejandro Tabilo
+24	771	
+34	0	0
+81	
+-1
+USA	
+Denis Kudla
+29	762	
+-2
+29	23	8
+82	
+AUS	
+Jordan Thompson
+28	748	
+31	0	0
+83	
++1
+JPN	
+Kei Nishikori
+32	745	
+10	0	0
+84	
++2
+FRA	
+Quentin Halys
+25	722	
+33	9	8
+85	
++3
+ESP	
+Carlos Taberner
+24	720	
+34	0	0
+86	
+-1
+AUS	
+Thanasi Kokkinakis
+26	718	
+-5
+19	0	0
+87	
++4
+ESP	
+Jaume Munar
+25	710	
+35	90	10
+88	
++2
+ARG	
+Tomas Martin Etcheverry
+22	710	
+-5
+36	0	0
+89	
++13
+ESP	
+Roberto Carballes Baena
+29	704	
++64
+36	57	16
+90	
+-3
+BOL	
+Hugo Dellien
+28	703	
+-18
+34	0	0
+91	
++2
+AUS	
+John Millman
+32	693	
+-5
+30	0	0
+92	
+USA	
+Steve Johnson
+32	689	
+-15
+27	0	0
+93	
+-4
+GER	
+Dominik Koepfer
+28	674	
+-45
+22	3	0
+94	
++3
+GER	
+Peter Gojowczyk
+32	672	
+23	0	0
+95	
++1
+SWE	
+Mikael Ymer
+23	672	
+-7
+27	12	5
+96	
+-1
+SUI	
+Henri Laaksonen
+30	668	
+-12
+24	0	0
+97	
++2
+GER	
+Jan-Lennard Struff
+32	658	
+24	45	0
+98	
+-15
+ESP	
+Pablo Andujar
+36	656	
+-90
+25	50	0
+99	
+-5
+JPN	
+Yoshihito Nishioka
+26	654	
+-37
+26	45	0
+100	
+BRA	
+Thiago Monteiro
+27	651	
+32	20	10
+101	
+LTU	
+Ricardas Berankis
+31	645	
+22	0	0
+102	
++1
+AUS	
+Alexei Popyrin
+22	616	
+25	0	0
+103	
+-5
+ARG	
+Facundo Bagnis
+32	600	
+-63
+30	0	0
+104	
++3
+USA	
+Sam Querrey
+34	580	
+18	0	0
+105	
++1
+GBR	
+Jack Draper
+20	577	
+-12
+23	3	0
+106	
++2
+COL	
+Daniel Elahi Galan
+25	575	
+33	0	0
+107	
++2
+ESP	
+Fernando Verdasco
+38	567	
+33	45	4
+108	
++2
+TPE	
+Chun-hsin Tseng
+20	565	
+35	0	0
+109	
++4
+USA	
+Jack Sock
+29	552	
+21	0	0
+110	
++4
+GER	
+Yannick Hanfmann
+30	552	
+26	15	6
+111	
++4
+SVK	
+Norbert Gombos
+31	551	
+28	51	6
+112	
++4
+USA	
+Stefan Kozlov
+24	543	
+28	3	0
+113	
+-2
+ESP	
+Feliciano Lopez
+40	542	
+-20
+24	5	0
+114	
+-9
+JPN	
+Taro Daniel
+29	527	
+-68
+26	0	0
+115	
++2
+GER	
+Mats Moraing
+29	526	
+35	26	7
+116	
++8
+AUS	
+Christopher O'Connell
+27	524	
++22
+29	12	5
+117	
+-5
+MDA	
+Radu Albot
+32	519	
+-38
+34	0	0
+118	
++1
+ITA	
+Gianluca Mager
+27	519	
+31	24	8
+119	
++1
+SUI	
+Marc-Andrea Huesler
+25	514	
+35	4	2
+120	
++1
+ITA	
+Stefano Travaglia
+30	508	
+31	0	0
+121	
++1
+PER	
+Juan Pablo Varillas
+26	504	
+32	0	0
+122	
++1
+AUS	
+Aleksandar Vukic
+26	503	
+33	0	0
+123	
++2
+ARG	
+Guido Pella
+32	485	
+15	0	0
+124	
++3
+AUT	
+Jurij Rodionov
+23	484	
+29	0	0
+125	
++3
+USA	
+J.J. Wolf
+23	483	
+26	0	0
+126	
++3
+SWE	
+Elias Ymer
+26	483	
+28	0	0
+127	
++3
+SVK	
+Andrej Martin
+32	482	
+40	110	14
+128	
++3
+CAN	
+Vasek Pospisil
+31	479	
+22	0	0
+129	
++3
+ARG	
+Juan Manuel Cerundolo
+20	476	
+31	0	0
+130	
++3
+ESP	
+Bernabe Zapata Miralles
+25	475	
+31	9	7
+131	
++3
+ITA	
+Marco Cecchinato
+29	475	
+24	150	0
+132	
++3
+USA	
+Ernesto Escobedo
+25	470	
+28	0	0
+133	
++3
+CZE	
+Zdenek Kolar
+25	468	
+39	0	0
+134	
+-8
+POR	
+Nuno Borges
+25	467	
+-18
+30	15	7
+135	
++2
+ITA	
+Andreas Seppi
+38	466	
+27	0	0
+136	
++2
+CHI	
+Nicolas Jarry
+26	466	
+30	1	0
+137	
++3
+CHI	
+Tomas Barrios Vera
+24	453	
+30	0	0
+138	
++1
+FRA	
+Corentin Moutet
+23	451	
+-10
+20	0	0
+139	
++3
+GBR	
+Liam Broady
+28	448	
+32	0	0
+140	
++3
+RUS	
+Pavel Kotov
+23	443	
+35	0	0
+141	
+ARG	
+Juan Ignacio Londero
+28	442	
+-10
+23	0	0
+142	
++2
+CZE	
+Tomas Machac
+21	436	
+27	0	0
+143	
++2
+USA	
+Mitchell Krueger
+28	432	
+30	9	3
+144	
++2
+BLR	
+Egor Gerasimov
+29	429	
+31	0	0
+145	
++13
+FRA	
+Manuel Guinard
+26	429	
++37
+40	0	0
+146	
++1
+RUS	
+Roman Safiullin
+24	428	
+27	2	0
+147	
++1
+GER	
+Philipp Kohlschreiber
+38	422	
+14	0	0
+148	
+-30
+URU	
+Pablo Cuevas
+36	418	
+-106
+24	20	0
+149	
++1
+AUT	
+Dennis Novak
+28	417	
+30	0	0
+150	
++1
+FRA	
+Hugo Grenier
+26	415	
+-1
+38	0	0
+151	
+-2
+ECU	
+Emilio Gomez
+30	412	
+-9
+31	0	0
+152	
+ARG	
+Pedro Cachin
+27	412	
+31	12	4
+153	
+ITA	
+Flavio Cobolli
+20	411	
+29	20	7
+154	
+ARG	
+Camilo Ugo Carabelli
+22	410	
+32	13	9
+155	
+ITA	
+Franco Agamenone
+29	407	
+27	3	2
+156	
+USA	
+Christopher Eubanks
+26	405	
+28	9	4
+157	
++2
+FRA	
+Gilles Simon
+37	391	
++12
+33	0	0
+158	
+-1
+POR	
+Gastao Elias
+31	377	
+-25
+28	50	0
+159	
++2
+AUS	
+Jason Kubler
+29	367	
+29	0	0
+160	
++2
+SRB	
+Nikola Milojevic
+26	366	
+28	8	0
+161	
++2
+FRA	
+Lucas Pouille
+28	360	
+29	0	0
+162	
++2
+GBR	
+Jay Clarke
+23	360	
+34	0	0
+163	
++2
+KAZ	
+Mikhail Kukushkin
+34	354	
+23	0	0
+164	
+-4
+BIH	
+Damir Dzumhur
+30	354	
+-22
+32	0	0
+165	
++1
+ITA	
+Gian Marco Moroni
+24	351	
+35	0	0
+166	
++1
+ARG	
+Facundo Mena
+29	346	
+-4
+37	0	0
+167	
++2
+CZE	
+Vit Kopriva
+24	345	
+-2
+37	10	4
+168	
++2
+FRA	
+Constant Lestienne
+29	343	
+33	0	0
+169	
++2
+AUS	
+Max Purcell
+24	342	
+23	0	0
+170	
++2
+NED	
+Jesper De Jong
+21	341	
+37	0	0
+171	
+-3
+FRA	
+Pierre-Hugues Herbert
+31	339	
+-10
+26	0	0
+172	
++1
+ITA	
+Alessandro Giannessi
+31	334	
+-6
+25	49	0
+173	
++3
+ARG	
+Renzo Olivo
+30	333	
+39	0	0
+174	
++4
+IND	
+Ramkumar Ramanathan
+27	332	
+33	3	2
+175	
++4
+USA	
+Michael Mmoh
+24	330	
++6
+23	0	0
+176	
++4
+KAZ	
+Dmitry Popko
+25	324	
+28	0	0
+177	
++4
+ARG	
+Juan Pablo Ficovich
+25	321	
+39	0	0
+178	
++4
+ARG	
+Marco Trungelliti
+32	319	
+19	0	0
+179	
++4
+TUR	
+Altug Celikbilek
+25	319	
+31	0	0
+180	
++4
+ITA	
+Federico Gaio
+30	319	
+38	9	7
+181	
++6
+ITA	
+Thomas Fabbiano
+32	313	
+33	0	0
+182	
++6
+CRO	
+Nino Serdarusic
+25	313	
+41	0	0
+183	
+-9
+FRA	
+Enzo Couacaud
+27	311	
+-26
+28	0	0
+184	
++5
+HUN	
+Zsombor Piros
+22	309	
+30	4	2
+185	
+USA	
+Bjorn Fratangelo
+28	307	
+-7
+23	0	0
+186	
++4
+BRA	
+Felipe Meligeni Rodrigues Alves
+24	307	
+-2
+32	0	0
+187	
++4
+KAZ	
+Timofey Skatov
+21	298	
+-2
+33	17	0
+188	
++4
+ARG	
+Thiago Agustin Tirante
+21	296	
+26	0	0
+189	
++5
+AUT	
+Dominic Thiem
+28	295	
+13	0	0
+190	
++5
+FRA	
+Geoffrey Blancaneaux
+23	295	
+39	0	0
+191	
++5
+SVK	
+Filip Horansky
+29	294	
+31	0	0
+192	
+-6
+USA	
+Tennys Sandgren
+30	293	
+-20
+29	0	0
+193	
++4
+AUS	
+Alex Bolt
+29	293	
+16	5	0
+194	
+-19
+SLO	
+Aljaz Bedene
+32	291	
+-45
+12	20	0
+195	
++4
+GBR	
+Ryan Peniston
+26	291	
+30	10	5
+196	
++4
+ITA	
+Luca Nardi
+18	290	
+26	2	0
+197	
+-4
+BUL	
+Dimitar Kuzmanov
+28	289	
+-7
+27	0	0
+198	
+-21
+SUI	
+Dominic Stricker
+19	288	
+-45
+20	0	0
+199	
+-1
+BEL	
+Zizou Bergs
+22	287	
+-5
+26	0	0
+200	
++3
+ARG	
+Santiago Rodriguez Taverna
+22	287	
+41	0	0
+201	
++3
+SUI	
+Alexander Ritschard
+28	284	
+31	4	2
+202	
+-1
+CZE	
+Dalibor Svrcina
+19	283	
+-6
+27	0	0
+203	
++3
+ARG	
+Nicolas Kicker
+29	283	
+30	20	7
+204	
++3
+ITA	
+Salvatore Caruso
+29	282	
+25	0	0
+205	
+-3
+NED	
+Tim Van Rijthoven
+25	282	
+-6
+32	0	0
+206	
+-1
+ITA	
+Lorenzo Giustino
+30	281	
+-2
+41	40	0
+207	
++1
+GER	
+Maximilian Marterer
+26	277	
+27	0	0
+208	
++17
+AUT	
+Filip Misolic
+20	272	
++30
+23	0	0
+209	
+FRA	
+Gregoire Barrere
+28	269	
+25	0	0
+210	
+GER	
+Cedrik-Marcel Stebe
+31	268	
+22	0	0
+211	
+SVK	
+Jozef Kovalik
+29	268	
+24	4	0
+212	
+FRA	
+Evan Furness
+23	266	
+36	6	2
+213	
+TUR	
+Cem Ilkel
+26	265	
+24	3	0
+214	
+FRA	
+Antoine Escoffier
+30	265	
+34	0	0
+215	
+ITA	
+Giulio Zeppieri
+20	260	
+29	0	0
+216	
++1
+RUS	
+Evgeny Donskoy
+32	258	
+25	3	0
+217	
+-1
+FRA	
+Alexandre Muller
+25	257	
+-3
+37	0	0
+218	
+AUT	
+Sebastian Ofner
+26	255	
+22	4	0
+219	
+BIH	
+Mirza Basic
+30	253	
+30	3	0
+220	
+ITA	
+Andrea Arnaboldi
+34	252	
+41	3	2
+221	
+ITA	
+Andrea Pellegrino
+25	250	
+38	8	2
+222	
+CRO	
+Borna Gojo
+24	249	
+31	0	0
+223	
++40
+JPN	
+Yosuke Watanuki
+24	248	
++49
+29	0	0
+224	
+-1
+BRA	
+Matheus Pucinelli De Almeida
+21	248	
+34	4	3
+225	
+-1
+ESP	
+Mario Vilella Martinez
+26	247	
+18	15	0
+226	
+CZE	
+Jonas Forejtek
+21	240	
+38	0	0
+227	
+RUS	
+Andrey Kuznetsov
+31	237	
+23	0	0
+228	
++1
+SVK	
+Lukas Lacko
+34	235	
+18	5	0
+229	
++1
+CRO	
+Duje Ajdukovic
+21	235	
+34	0	0
+230	
++43
+NED	
+Gijs Brouwer
+26	234	
++47
+38	0	0
+231	
+GBR	
+Paul Jubb
+22	231	
+24	0	0
+232	
++29
+USA	
+Emilio Nava
+20	230	
++30
+21	0	0
+233	
+-1
+AUS	
+Rinky Hijikata
+21	230	
+30	0	0
+234	
++3
+RUS	
+Alexander Shevchenko
+21	230	
++4
+35	10	3
+235	
+-7
+FRA	
+Antoine Hoang
+26	229	
+-6
+31	0	0
+236	
+-3
+GER	
+Daniel Masur
+27	229	
+26	6	0
+237	
+-3
+AUS	
+Marc Polmans
+25	228	
+25	8	0
+238	
++42
+ITA	
+Matteo Arnaldi
+21	228	
++48
+30	0	0
+239	
++1
+UKR	
+Vitaliy Sachko
+24	227	
++2
+37	12	4
+240	
+-4
+CAN	
+Milos Raonic
+31	226	
+7	0	0
+241	
+-6
+ARG	
+Facundo Diaz Acosta
+21	225	
+-3
+33	9	2
+242	
++10
+UKR	
+Illya Marchenko
+34	224	
++14
+28	0	0
+243	
+-5
+ARG	
+Andrea Collarini
+30	224	
+-2
+38	0	0
+244	
+-5
+ITA	
+Riccardo Bonadio
+28	224	
+-2
+44	0	0
+245	
+-4
+ITA	
+Andrea Vavassori
+27	222	
+-2
+23	21	0
+246	
+-4
+CHI	
+Gonzalo Lama
+29	222	
+27	0	0
+247	
+-4
+TPE	
+Tung-Lin Wu
+24	222	
+28	6	0
+248	
+-4
+ARG	
+Genaro Alberto Olivieri
+23	222	
+36	3	2
+249	
++11
+GER	
+Nicola Kuhn
+22	217	
++16
+29	4	0
+250	
+-5
+USA	
+Nicolas Moreno De Alboran
+24	215	
+25	6	0
+251	
+-5
+ROU	
+Marius Copil
+31	215	
+25	23	0
+252	
+-4
+AUT	
+Gerald Melzer
+31	213	
+19	0	0
+253	
+-4
+JPN	
+Hiroki Moriya
+31	213	
+32	0	0
+254	
+-3
+CZE	
+Lukas Rosol
+36	213	
++2
+33	0	0
+255	
+-5
+TPE	
+Jason Jung
+32	212	
+26	0	0
+256	
++10
+CHN	
+Zhizhen Zhang
+25	210	
++13
+23	4	0
+257	
+-1
+USA	
+Christian Harrison
+27	209	
++3
+22	1	0
+258	
+-11
+BRA	
+Thiago Seyboth Wild
+22	208	
+-6
+25	0	0
+259	
+-1
+NED	
+Jelle Sels
+26	208	
++6
+36	0	0
+260	
+-6
+ESP	
+Javier Barranco Cosano
+23	208	
+36	3	2
+261	
+-6
+HUN	
+Attila Balazs
+33	207	
+11	30	0
+262	
+POR	
+Frederico Ferreira Silva
+27	206	
++6
+27	0	0
+263	
+-6
+SUI	
+Stan Wawrinka
+37	204	
+8	0	0
+264	
++60
+NED	
+Robin Haase
+35	200	
++50
+26	0	0
+265	
++3
+HUN	
+Mate Valkusz
+23	200	
++9
+17	0	0
+266	
++6
+RUS	
+Evgeny Karlovskiy
+27	200	
++13
+31	4	3
+267	
+-8
+SRB	
+Miljan Zekic
+33	199	
+-2
+27	0	0
+268	
+-4
+POL	
+Kacper Zuk
+23	199	
+30	0	0
+269	
+-4
+JPN	
+Yuichi Sugita
+33	198	
+15	3	0
+270	
+-17
+CAN	
+Brayden Schnur
+26	191	
+-17
+25	5	0
+271	
++3
+ESP	
+Nicolas Alvarez Varona
+21	191	
++5
+36	0	0
+272	
+-2
+BRA	
+Daniel Dutra da Silva
+33	191	
++1
+42	0	0
+273	
+-4
+BIH	
+Nerman Fatic
+27	190	
+-1
+32	0	0
+274	
++11
+JPN	
+Kaichi Uchida
+27	188	
++13
+36	0	0
+275	
+-4
+IND	
+Prajnesh Gunneswaran
+32	187	
+30	0	0
+276	
++41
+SUI	
+Johan Nikles
+25	187	
++31
+26	0	0
+277	
++5
+POL	
+Daniel Michalski
+22	184	
++5
+33	0	0
+278	
+-3
+CRO	
+Borna Coric
+25	183	
+12	0	0
+279	
+-3
+BRA	
+Igor Marcondes
+24	183	
+20	0	0
+280	
+-3
+ITA	
+Luciano Darderi
+20	183	
+28	0	0
+281	
+-3
+BEL	
+Kimmer Coppejans
+28	183	
+30	0	0
+282	
++43
+BEL	
+Michael Geerts
+27	183	
++33
+35	0	0
+283	
+-4
+FRA	
+Laurent Lokoli
+27	180	
+24	0	0
+284	
+-1
+FRA	
+Maxime Janvier
+25	179	
++1
+39	0	0
+285	
++4
+ESP	
+Nikolas Sanchez Izquierdo
+23	177	
++6
+37	9	1
+286	
++33
+ESP	
+Oriol Roca Batalla
+29	175	
++19
+38	0	0
+287	
++22
+CAN	
+Alexis Galarneau
+23	174	
++15
+29	0	0
+288	
+-4
+AUT	
+Lucas Miedler
+25	174	
+-1
+33	0	0
+289	
++18
+ARG	
+Hernan Casanova
+28	174	
++13
+39	6	4
+290	
+-2
+ITA	
+Raul Brancaccio
+25	172	
++1
+35	22	4
+291	
+-1
+SLO	
+Blaz Rola
+31	170	
+23	0	0
+292	
++9
+SUI	
+Leandro Riedi
+20	170	
++8
+24	0	0
+293	
++3
+JPN	
+Yasutaka Uchiyama
+29	169	
++3
+25	0	0
+294	
+-3
+JPN	
+Go Soeda
+37	169	
+23	0	0
+295	
+-3
+ARG	
+Gonzalo Villanueva
+27	169	
+37	3	2
+296	
+-29
+FRA	
+Jo-Wilfried Tsonga
+37	168	
+-23
+16	0	0
+297	
+-4
+SRB	
+Viktor Troicki
+36	168	
+9	38	0
+298	
+-1
+GBR	
+Alastair Gray
+23	168	
++3
+23	0	0
+299	
++7
+ESP	
+Eduard Esteve Lobato
+27	168	
++7
+27	0	0
+300	
+ROU	
+Filip Cristian Jianu
+20	168	
++5
+40	9	2
+301	
++13
+FRA	
+Mathias Bourgue
+28	167	
++9
+27	0	0
+302	
+-8
+COL	
+Nicolas Mejia
+22	167	
+34	1	1
+303	
+-8
+GER	
+Julian Lenz
+29	167	
+36	7	4
+304	
+-23
+CAN	
+Steven Diez
+31	166	
+-13
+31	0	0
+305	
+-7
+ARG	
+Francisco Comesana
+21	165	
+27	0	0
+306	
+-20
+BRA	
+Orlando Luz
+24	164	
+-9
+31	5	0
+307	
+-8
+UKR	
+Oleksii Krutykh
+22	163	
+28	0	0
+308	
++29
+AUS	
+Li Tu
+25	162	
++25
+19	0	0
+309	
+-7
+TUR	
+Ergi Kirkin
+23	162	
+32	3	1
+310	
+-7
+UZB	
+Denis Istomin
+35	161	
+28	4	0
+311	
+-7
+BEL	
+Ruben Bemelmans
+34	161	
+28	3	0
+312	
+-7
+ARG	
+Juan Bautista Torres
+20	161	
+25	0	0
+313	
++8
+LIB	
+Benjamin Hassan
+27	160	
++5
+25	28	2
+314	
++4
+GER	
+Sebastian Fanselow
+30	159	
++3
+31	0	0
+315	
+-7
+SWE	
+Dragos Nicolae Madaras
+24	159	
+-1
+35	3	2
+316	
+-4
+POR	
+Goncalo Oliveira
+27	159	
+46	8	3
+317	
+-2
+GER	
+Tobias Kamke
+36	158	
+28	0	0
+318	
+-8
+SUI	
+Antoine Bellier
+25	158	
+-1
+29	2	0
+319	
+-3
+GBR	
+Aidan McHugh
+21	157	
+29	9	2
+320	
+-7
+USA	
+Ulises Blanch
+24	154	
+-4
+22	0	0
+321	
++2
+UKR	
+Sergiy Stakhovsky
+36	152	
+16	0	0
+322	
+-11
+NOR	
+Viktor Durasovic
+25	152	
+-7
+33	4	0
+323	
++29
+GER	
+Louis Wessels
+23	149	
++23
+36	0	0
+324	
++2
+RUS	
+Alexey Vatutin
+29	149	
+37	0	0
+325	
++2
+ESP	
+Carlos Gimeno Valero
+20	148	
+18	27	0
+326	
++2
+SVK	
+Lukas Klein
+24	147	
+23	8	1
+327	
+-40
+POR	
+Pedro Sousa
+33	146	
+-25
+17	9	0
+328	
++1
+SRB	
+Pedja Krstin
+27	146	
+-1
+35	20	0
+329	
+-7
+DOM	
+Nick Hardt
+21	144	
+-9
+33	10	1
+330	
++1
+FRA	
+Kyrian Jacquet
+21	143	
+20	0	0
+331	
++4
+POR	
+Joao Domingues
+28	143	
++4
+26	4	0
+332	
++1
+ECU	
+Roberto Quiroz
+30	143	
+39	0	0
+333	
+-3
+ITA	
+Francesco Forti
+22	141	
+-5
+32	12	3
+334	
++41
+GBR	
+Billy Harris
+27	141	
++25
+34	0	0
+335	
+-1
+HUN	
+Fabian Marozsan
+22	140	
+28	2	1
+336	
++2
+KAZ	
+Denis Yevseyev
+29	140	
++3
+36	11	4
+337	
++14
+ROU	
+Nicholas David Ionel
+19	140	
++14
+36	0	0
+338	
+-2
+FRA	
+Calvin Hemery
+27	138	
+27	0	0
+339	
++19
+TUN	
+Skander Mansouri
+26	138	
++14
+37	0	0
+340	
+-1
+GBR	
+Kyle Edmund
+27	136	
+5	0	0
+341	
+-1
+GER	
+Henri Squire
+21	136	
+27	0	0
+342	
+-1
+GER	
+Matthias Bachinger
+35	135	
+18	13	0
+343	
+-23
+FRA	
+Arthur Cazaux
+19	135	
+-20
+18	0	0
+344	
++5
+USA	
+Alex Rybakov
+25	134	
++7
+30	0	0
+345	
+-3
+FRA	
+Alexis Gautier
+25	133	
+27	0	0
+346	
+-2
+FRA	
+Jeremy Chardy
+35	131	
+8	20	0
+347	
+-2
+USA	
+Aleksandar Kovacevic
+23	131	
+23	0	0
+348	
+-2
+BRA	
+Pedro Boscardin Dias
+19	130	
+21	0	0
+349	
+-17
+FRA	
+Tristan Lamasine
+29	130	
+-13
+28	0	0
+350	
+-7
+ISR	
+Yshai Oliel
+22	128	
+-5
+31	4	2
+351	
+-4
+GER	
+Mats Rosenkranz
+23	128	
+43	0	0
+352	
+-4
+IND	
+Sumit Nagal
+24	127	
+20	3	0
+353	
+TUN	
+Malek Jaziri
+38	125	
+31	0	0
+354	
+ARG	
+Facundo Juarez
+24	125	
+38	0	0
+355	
+ESP	
+Marcel Granollers
+36	124	
+7	13	0
+356	
++1
+ESP	
+Adrian Menendez-Maceiras
+36	124	
+24	4	0
+357	
+-7
+DEN	
+Mikael Torpegaard
+28	124	
+-2
+24	0	0
+358	
++1
+COL	
+Nicolas Barrientos
+35	122	
+18	0	0
+359	
++2
+CRO	
+Ivo Karlovic
+43	121	
+11	13	0
+360	
++2
+ITA	
+Edoardo Lavagno
+23	121	
+26	0	0
+361	
++2
+BRA	
+Joao Menezes
+25	120	
+16	4	0
+362	
++2
+BUL	
+Adrian Andreev
+21	120	
+20	13	0
+363	
++2
+CAN	
+Peter Polansky
+33	120	
+21	5	0
+364	
++2
+FRA	
+Clement Tabur
+22	120	
+29	0	0
+365	
++2
+PER	
+Nicolas Alvarez
+25	119	
+28	1	0
+366	
++2
+USA	
+JC Aragone
+26	119	
+29	0	0
+367	
++2
+GER	
+Lucas Gerch
+27	119	
+34	0	0
+368	
++16
+BRA	
+Gabriel Decamps
+22	117	
++7
+21	0	0
+369	
++2
+ITA	
+Francesco Passaro
+21	116	
+-1
+24	0	0
+370	
++4
+BRA	
+Gilbert Klier Junior
+22	116	
+30	0	0
+371	
++1
+TPE	
+Yu Hsiou Hsu
+23	116	
+-1
+35	3	1
+372	
+-2
+BUL	
+Alexandar Lazarov
+24	115	
+-3
+29	0	0
+373	
++18
+FRA	
+Dan Added
+23	115	
++7
+37	0	0
+374	
+-18
+USA	
+Thai-Son Kwiatkowski
+27	114	
+-10
+16	17	0
+375	
++2
+FIN	
+Otto Virtanen
+20	114	
+20	6	0
+376	
++2
+RUS	
+Alibek Kachmazov
+19	114	
+23	0	0
+377	
++2
+ESP	
+Pol Martin Tiffon
+22	114	
+34	0	0
+378	
++2
+USA	
+Keegan Smith
+23	113	
+17	0	0
+379	
++84
+USA	
+Evan Zhu
+23	113	
++34
+30	0	0
+380	
++1
+FRA	
+Luca Van Assche
+18	112	
+-1
+19	0	0
+381	
++2
+GER	
+Marvin Moeller
+23	112	
+24	0	0
+382	
++18
+RUS	
+Ivan Gakhov
+25	112	
++9
+37	0	0
+383	
+-23
+LAT	
+Ernests Gulbis
+33	110	
+-12
+18	0	0
+384	
++2
+ESP	
+Tommy Robredo
+40	109	
+11	45	0
+385	
+-9
+BIH	
+Aldin Setkic
+34	109	
+-6
+35	0	0
+386	
++1
+ITA	
+Roberto Marcora
+32	108	
+22	0	0
+387	
++1
+USA	
+Govind Nanda
+21	108	
+17	0	0
+388	
++1
+FRA	
+Titouan Droguet
+20	108	
+22	1	0
+389	
++1
+RUS	
+Evgenii Tiurnev
+25	108	
+27	10	0
+390	
++6
+USA	
+Oliver Crawford
+23	107	
++2
+29	6	2
+391	
+-18
+KOR	
+Yunseong Chung
+24	106	
+-10
+19	13	0
+392	
+-10
+URU	
+Martin Cuevas
+30	106	
+-6
+19	0	0
+393	
+MON	
+Valentin Vacherot
+23	106	
+29	0	0
+394	
+USA	
+Zachary Svajda
+19	105	
+13	0	0
+395	
+AUS	
+Matthew Ebden
+34	105	
+15	13	0
+396	
++1
+AUS	
+Dane Sweeny
+21	105	
+30	0	0
+397	
+-5
+UKR	
+Oleg Prihodko
+24	105	
+-2
+35	0	0
+398	
++5
+JPN	
+Shintaro Mochizuki
+18	104	
++2
+23	3	0
+399	
+FRA	
+Kenny De Schepper
+34	103	
+29	0	0
+400	
++1
+CHN	
+Juncheng Shang
+17	102	
+15	0	0
+401	
++1
+ESP	
+Alejandro Moro Canas
+21	102	
+19	1	0
+402	
++110
+ITA	
+Francesco Maestrelli
+19	102	
++38
+21	0	0
+403	
++435
+UZB	
+Sergey Fomin
+21	102	
++84
+25	0	0
+404	
+GRE	
+Michail Pervolarakis
+25	102	
+32	5	2
+405	
+LIB	
+Hady Habib
+23	101	
+28	0	0
+406	
++5
+ITA	
+Mattia Bellucci
+20	101	
++3
+29	0	0
+407	
+-1
+BRA	
+Mateus Alves
+21	101	
+33	1	0
+408	
+-1
+FRA	
+Arthur Fils
+17	100	
+19	0	0
+409	
+-1
+FRA	
+Matteo Martineau
+23	100	
+27	1	0
+410	
++9
+ITA	
+Matteo Viola
+34	100	
++4
+30	6	0
+411	
+-1
+CZE	
+David Poljak
+26	100	
+33	1	1
+412	
++27
+ITA	
+Alexander Weis
+25	100	
++14
+36	0	0
+413	
++19
+ESP	
+Carlos Sanchez Jover
+21	99	
++10
+36	0	0
+414	
++8
+ITA	
+Filippo Baldi
+26	98	
++4
+29	28	0
+415	
+-2
+BRA	
+Oscar Jose Gutierrez
+29	98	
+34	0	0
+416	
+-2
+RUS	
+Yan Bondarevskiy
+22	98	
+35	6	2
+417	
+-2
+AUS	
+Bernard Tomic
+29	97	
+15	5	0
+418	
+-20
+GER	
+Elmar Ejupovic
+29	97	
+-8
+30	0	0
+419	
+-3
+BRA	
+Gustavo Heide
+20	96	
+21	2	0
+420	
+-11
+RUS	
+Teymuraz Gabashvili
+36	96	
+-4
+25	6	0
+421	
+-4
+ARG	
+Alejo Lorenzo Lingua Lavallen
+21	96	
+27	0	0
+422	
+-2
+KOR	
+Duckhee Lee
+23	95	
+24	28	0
+423	
+-11
+CZE	
+Marek Gengel
+26	95	
+-3
+29	2	0
+424	
+-1
+ARG	
+Matias Zukas
+26	94	
+34	0	0
+425	
+-4
+USA	
+Brandon Holt
+24	93	
+-1
+15	0	0
+426	
++4
+FRA	
+Harold Mayot
+20	93	
++4
+28	0	0
+427	
+-3
+JPN	
+Tatsuma Ito
+34	92	
+16	0	0
+428	
++5
+GBR	
+Felix Gill
+19	92	
++4
+26	0	0
+429	
+-4
+UZB	
+Khumoyun Sultanov
+23	91	
+24	3	0
+430	
+-12
+IND	
+Mukund Sasikumar
+25	91	
+-5
+29	0	0
+431	
+-5
+COL	
+Cristian Rodriguez
+31	91	
+32	0	0
+432	
+-5
+KOR	
+JiSung Nam
+28	90	
+21	9	0
+433	
++15
+AUT	
+Lukas Neumayer
+19	90	
++7
+27	0	0
+434	
+-5
+GBR	
+Anton Matusevich
+20	89	
+21	0	0
+435	
+MAR	
+Elliot Benchetrit
+23	89	
++2
+24	0	0
+436	
+-5
+TUN	
+Moez Echargui
+29	89	
+29	0	0
+437	
+-3
+ESP	
+Alex Marti Pujolras
+23	87	
+-1
+31	1	1
+438	
+-53
+POL	
+Filip Peliwo
+28	87	
+-23
+33	0	0
+439	
+-3
+ZIM	
+Benjamin Lock
+29	87	
+37	2	1
+440	
+-3
+FRA	
+Matthieu Perchicot
+29	87	
+37	0	0
+441	
+JPN	
+Sho Shimabukuro
+24	84	
+22	0	0
+442	
+ARG	
+Roman Andres Burruchaga
+20	84	
+26	0	0
+443	
+BEL	
+Christopher Heyman
+28	84	
+29	10	0
+444	
++28
+USA	
+Christian Langmo
+25	84	
++7
+34	0	0
+445	
+-1
+USA	
+Bradley Klahn
+31	83	
+7	0	0
+446	
+-1
+CHN	
+Yan Bai
+33	83	
+13	10	0
+447	
+BRA	
+Jose Pereira
+31	83	
+20	0	0
+448	
++1
+SWE	
+Jonathan Mridha
+27	83	
+27	0	0
+449	
++43
+HUN	
+Gergely Madarasz
+27	83	
++13
+28	0	0
+450	
++2
+ARG	
+Juan Pablo Paz
+27	83	
++1
+30	0	0
+451	
+-11
+TUN	
+Aziz Dougaz
+25	83	
+-2
+30	2	0
+452	
+-14
+SRB	
+Hamad Medjedovic
+18	82	
+-4
+17	0	0
+453	
+-3
+GER	
+Rudolf Molleker
+21	82	
+22	28	0
+454	
++24
+GBR	
+Charles Broom
+24	82	
++8
+24	0	0
+455	
++3
+EGY	
+Mohamed Safwat
+31	82	
++3
+24	4	0
+456	
+-5
+ROU	
+Cezar Cretu
+21	82	
+27	1	1
+457	
+-4
+COL	
+Alejandro Gonzalez
+33	82	
+31	3	1
+458	
++23
+AUS	
+Tristan Schoolkate
+21	81	
++8
+27	0	0
+459	
++40
+FRA	
+Valentin Royer
+20	81	
++14
+27	0	0
+460	
+-6
+MON	
+Lucas Catarina
+25	81	
+34	0	0
+461	
+-6
+RUS	
+Andrey Chepelev
+23	81	
+42	0	0
+462	
+-6
+ISR	
+Dudi Sela
+37	80	
+6	45	0
+463	
++17
+FRA	
+Ugo Blanchet
+23	80	
++6
+28	0	0
+464	
++19
+POL	
+Pawel Cias
+28	79	
++7
+21	0	0
+465	
+-6
+AUS	
+Dayne Kelly
+31	79	
+24	1	0
+466	
++13
+AUT	
+Alexander Erler
+24	79	
++5
+25	0	0
+467	
+-6
+SUI	
+Jakub Paul
+23	79	
+27	0	0
+468	
+-3
+UKR	
+Georgii Kravchenko
+21	79	
++1
+27	0	0
+469	
+-7
+ESP	
+Carlos Lopez Montagud
+21	79	
+28	4	0
+470	
+-13
+ITA	
+Giovanni Fonio
+24	79	
+-1
+31	3	1
+471	
+-3
+USA	
+Nick Chappell
+29	79	
++1
+32	1	0
+472	
++1
+JPN	
+Yuta Shimizu
+22	78	
++2
+22	6	0
+473	
+-7
+SUI	
+Damien Wenger
+22	78	
+29	0	0
+474	
+-7
+ARG	
+Matias Franco Descotte
+27	78	
+31	3	1
+475	
+-6
+BAR	
+Darian King
+30	77	
+11	17	0
+476	
+-6
+VIE	
+Nam Hoang Ly
+25	77	
+19	0	0
+477	
+-13
+TUR	
+Yanki Erel
+21	77	
+-1
+21	4	0
+478	
+-7
+BOL	
+Murkel Dellien
+24	77	
+23	0	0
+479	
++12
+KAZ	
+Beibit Zhukayev
+21	77	
++7
+27	0	0
+480	
++16
+ITA	
+Samuel Vincent Ruggeri
+20	76	
++8
+26	0	0
+481	
+-6
+ITA	
+Paolo Lorenzi
+40	75	
+17	4	0
+482	
+-22
+GER	
+Timo Stodder
+26	75	
+-4
+24	0	0
+483	
++86
+CZE	
+Martin Krumich
+19	75	
++25
+29	1	0
+484	
+-8
+RUS	
+Bogdan Bobrov
+24	75	
+35	0	0
+485	
+-8
+USA	
+Noah Rubin
+26	74	
+19	4	0
+486	
+-40
+ESP	
+Alvaro Lopez San Martin
+24	73	
+-10
+18	0	0
+487	
+-5
+GER	
+Peter Heller
+29	73	
+28	1	0
+488	
+-14
+USA	
+Omni Kumar
+20	73	
+-3
+36	0	0
+489	
++4
+GBR	
+Stuart Parker
+24	72	
++3
+23	0	0
+490	
+-6
+BRA	
+Pedro Sakamoto
+28	72	
+24	0	0
+491	
+-6
+KOR	
+Hyeon Chung
+26	71	
+4	0	0
+492	
+-6
+NED	
+Guy Den Ouden
+20	71	
+23	0	0
+493	
+-6
+AUT	
+Maximilian Neuchrist
+30	71	
+23	1	0
+494	
+-5
+GBR	
+Jack Pinnington Jones
+19	70	
+16	0	0
+495	
++6
+AUS	
+Akira Santillan
+25	69	
++3
+21	0	0
+496	
++6
+SUI	
+Remy Bertola
+23	69	
++3
+23	2	0
+497	
++24
+CZE	
+Andrew Paulson
+20	69	
++7
+28	3	1
+498	
+-10
+CZE	
+Michael Vrbensky
+22	69	
+-2
+32	0	0
+499	
+-9
+JPN	
+Naoki Nakagawa
+25	68	
+-2
+17	0	0
+500	
+-5
+IND	
+Sidharth Rawat
+29	68	
+20	10	0
+501	
+-4
+ESP	
+Jose Fco. Vidal Azorin
+28	68	
+29	2	0
+502	
+-4
+BRA	
+Wilson Leite
+30	68	
+40	0	0
+503	
++8
+ITA	
+Matteo Gigante
+20	67	
++3
+15	0	0
+504	
+-4
+JPN	
+Rio Noguchi
+23	67	
+33	8	2
+505	
++12
+ITA	
+Riccardo Balzerani
+23	67	
++4
+33	0	0
+506	
+-3
+HUN	
+Peter Fajta
+20	66	
+23	2	0
+507	
+-2
+GER	
+Johannes Haerteis
+26	66	
+28	4	0
+508	
+-2
+UKR	
+Vladyslav Orlov
+27	66	
+31	3	1
+509	
+-15
+NED	
+Igor Sijsling
+34	65	
+-3
+15	0	0
+510	
+-3
+JPN	
+Shintaro Imai
+28	65	
+20	3	0
+511	
+-3
+ESP	
+Carlos Gomez-Herrera
+32	65	
+23	6	0
+512	
+-2
+AUS	
+Omar Jasika
+25	64	
+10	0	0
+513	
++1
+BEL	
+Joris De Loore
+29	63	
+14	0	0
+514	
++1
+DOM	
+Roberto Cid Subervi
+28	63	
+25	0	0
+515	
++1
+BLR	
+Uladzimir Ignatik
+31	63	
+28	3	1
+516	
+-3
+USA	
+Felix Corwin
+25	63	
+-1
+33	0	0
+517	
++1
+BRA	
+Joao Lucas Reis Da Silva
+22	63	
+37	3	0
+518	
++1
+ARG	
+Guido Andreozzi
+30	62	
+16	0	0
+519	
++1
+JPN	
+Yuki Mochizuki
+24	62	
+21	5	0
+520	
++2
+FRA	
+Clement Chidekh
+21	61	
+6	0	0
+521	
++2
+USA	
+Sam Riffice
+23	61	
+8	0	0
+522	
++12
+AUS	
+James McCabe
+18	61	
++4
+13	0	0
+523	
+-19
+SWE	
+Markus Eriksson
+32	61	
+-5
+22	6	0
+524	
+ROU	
+Bogdan Ionut Apostol
+26	61	
+33	0	0
+525	
++71
+FRA	
+Jurgen Briand
+23	60	
++16
+18	0	0
+526	
+-1
+USA	
+Vasil Kirkov
+23	60	
+21	1	0
+527	
+-1
+FRA	
+Corentin Denolly
+24	60	
+31	6	0
+528	
++14
+IND	
+Arjun Kadhe
+28	59	
++4
+13	0	0
+529	
++15
+ESP	
+Miguel Damas
+22	59	
++4
+25	0	0
+530	
+-3
+MEX	
+Alex Hernandez
+22	59	
+31	1	1
+531	
+-3
+PER	
+Conner Huertas del Pino
+26	59	
+33	0	0
+532	
+-3
+FRA	
+Quentin Folliot
+23	59	
+36	0	0
+533	
+-2
+ITA	
+Giovanni Oradini
+24	58	
+20	0	0
+534	
++11
+UKR	
+Eric Vanshelboim
+20	58	
++3
+26	10	1
+535	
+-3
+FRA	
+Terence Atmane
+20	58	
+30	0	0
+536	
+-3
+FRA	
+Nicolas Mahut
+40	57	
+2	0	0
+537	
+-1
+ITA	
+Simone Roncalli
+26	57	
+29	1	1
+538	
+-1
+JPN	
+Renta Tokuda
+24	56	
+16	0	0
+539	
+-9
+ITA	
+Jacopo Berrettini
+23	56	
+-2
+19	2	0
+540	
+-5
+USA	
+Sekou Bangoura
+30	56	
+-1
+23	6	0
+541	
+-3
+USA	
+Kyle Seelig
+24	56	
+26	0	0
+542	
+-3
+ARG	
+Mariano Navone
+21	56	
+28	2	1
+543	
++4
+ESP	
+Imanol Lopez Morillo
+22	56	
++1
+29	1	0
+544	
+-3
+USA	
+Gage Brymer
+27	56	
+48	0	0
+545	
+-2
+GBR	
+Jan Choinski
+25	55	
+16	0	0
+546	
+-37
+ARG	
+Leonardo Mayer
+35	54	
+-10
+4	0	0
+547	
++1
+USA	
+Ben Shelton
+19	54	
+8	0	0
+548	
++1
+CRO	
+Mili Poljicak
+17	54	
+10	0	0
+549	
++4
+GBR	
+Daniel Cox
+31	54	
++1
+13	0	0
+550	
++4
+GBR	
+Henry Patten
+26	54	
++1
+17	0	0
+551	
+-1
+BEL	
+Jeroen Vanneste
+28	54	
+18	0	0
+552	
+-1
+ISR	
+Daniel Cukierman
+26	54	
+24	0	0
+553	
++3
+ITA	
+Luca Potenza
+21	54	
++1
+25	1	0
+554	
+-8
+BUL	
+Alexander Donski
+23	54	
+-1
+27	0	0
+555	
+-3
+SVK	
+Martin Klizan
+32	53	
+6	0	0
+556	
++77
+ITA	
+Daniele Capecchi
+26	53	
++16
+23	1	0
+557	
+BEL	
+Gauthier Onclin
+21	53	
+28	0	0
+558	
++3
+AUS	
+Andrew Harris
+28	52	
++1
+18	0	0
+559	
+-1
+ESP	
+Pablo Llamas Ruiz
+19	52	
+24	0	0
+560	
+-1
+USA	
+Roy Smith
+23	52	
+27	5	0
+561	
+-21
+ESP	
+Roberto Ortega-Olmedo
+31	52	
+-4
+29	6	0
+562	
+-2
+USA	
+Strong Kirchheimer
+27	52	
+35	1	1
+563	
+-1
+ITA	
+Federico Arnaboldi
+21	51	
+17	0	0
+564	
+-1
+CAN	
+Liam Draxl
+20	51	
+18	0	0
+565	
+-10
+CHI	
+Bastian Malla
+25	51	
+-2
+19	4	0
+566	
+-1
+GER	
+Tim Handel
+25	51	
+25	0	0
+567	
+-1
+PER	
+Arklon Huertas Del Pino Cordova
+27	51	
+27	0	0
+568	
++79
+DOM	
+Peter Bertran
+26	51	
++15
+27	3	0
+569	
+-2
+USA	
+John McNally
+23	50	
+18	0	0
+570	
++1
+GER	
+Jeremy Jahn
+32	50	
++1
+26	0	0
+571	
+-143
+SRB	
+Danilo Petrovic
+30	49	
+-40
+15	0	0
+572	
+-8
+AUS	
+Jeremy Beale
+27	49	
+-2
+18	6	0
+573	
+-5
+COL	
+Alejandro Gomez
+30	49	
+-1
+20	2	0
+574	
++17
+FRA	
+Mathys Erhard
+20	49	
++4
+23	0	0
+575	
+-1
+KOR	
+Seong-chan Hong
+24	48	
+13	0	0
+576	
+ISR	
+Edan Leshem
+25	48	
+22	0	0
+577	
++20
+ESP	
+Alberto Barroso Campos
+25	48	
++4
+23	0	0
+578	
++20
+ARG	
+Valerio Aboian
+19	48	
++4
+23	0	0
+579	
++1
+COL	
+Juan Sebastian Gomez
+30	48	
++1
+26	2	1
+580	
+-7
+CZE	
+Pavel Nejedly
+29	48	
+-1
+30	3	1
+581	
++6
+FRA	
+Arthur Reymond
+23	48	
++2
+32	0	0
+582	
++98
+ESP	
+Daniel Merida
+17	47	
++15
+17	0	0
+583	
+-6
+RUS	
+Konstantin Kravchuk
+37	47	
+20	0	0
+584	
+-6
+ROU	
+Stefan Palosi
+22	47	
+23	0	0
+585	
+-4
+NMI	
+Colin Sinclair
+27	47	
+28	4	0
+586	
+-3
+SUI	
+Sandro Ehrat
+31	46	
+12	4	0
+587	
+-3
+CIV	
+Eliakim Coulibaly
+20	46	
+17	0	0
+588	
+-3
+FRA	
+Giovanni Mpetshi Perricard
+18	46	
+20	0	0
+589	
++105
+ROU	
+Nicolae Frunza
+24	46	
++15
+25	2	0
+590	
++2
+ESP	
+Pol Toledo Bague
+27	46	
++1
+28	7	0
+591	
++12
+USA	
+Ezekiel Clark
+23	46	
++3
+34	0	0
+592	
+-10
+GER	
+Mischa Zverev
+34	45	
+-1
+12	0	0
+593	
+-5
+JAM	
+Dustin Brown
+37	45	
+5	0	0
+594	
+-5
+FRA	
+Sascha Gueymard Wayenburg
+18	45	
+17	0	0
+595	
+-5
+USA	
+Donald Young
+32	45	
+19	0	0
+596	
+-26
+ITA	
+Stefano Napolitano
+27	45	
+-4
+20	0	0
+597	
+-18
+ISR	
+Ben Patael
+24	45	
+-2
+21	0	0
+598	
+-12
+ARG	
+Mariano Kestelboim
+26	45	
+-1
+26	3	0
+599	
++33
+ITA	
+Marco Miceli
+23	45	
++7
+35	0	0
+600	
++105
+CHN	
+Bu Yunchaokete
+20	44	
++15
+14	0	0
+601	
+-7
+USA	
+Ryan Harrison
+30	44	
+14	0	0
+602	
+-7
+FRA	
+Sean Cuenin
+18	44	
+17	0	0
+603	
+-28
+ITA	
+Alessandro Bega
+31	44	
+-4
+21	9	0
+604	
+-4
+ESP	
+Guillermo Garcia-Lopez
+38	43	
+7	4	0
+605	
+-4
+USA	
+Patrick Kypson
+22	43	
+10	6	0
+606	
+JPN	
+Shuichi Sekiguchi
+30	43	
++2
+14	12	0
+607	
+-35
+RUS	
+Ivan Nedelko
+36	43	
+-6
+25	6	0
+608	
+-6
+POR	
+Pedro Araujo
+20	43	
+29	4	0
+609	
++12
+CHN	
+Hanwen Li
+19	42	
++3
+19	0	0
+610	
+-6
+FRA	
+Jaimee Floyd Angele
+22	42	
+25	0	0
+611	
+-12
+POR	
+Tiago Cacao
+24	42	
+-2
+33	0	0
+612	
+-5
+BEL	
+Raphael Collignon
+20	41	
+17	0	0
+613	
++3
+FRA	
+Maxime Chazal
+29	41	
++1
+20	11	0
+614	
+-4
+AUS	
+Thomas Fancutt
+27	41	
+29	6	0
+615	
+-6
+ARG	
+Ignacio Monzon
+24	41	
+30	1	0
+616	
++21
+CHN	
+Yibing Wu
+22	40	
++4
+4	0	0
+617	
+-4
+USA	
+Cannon Kingsley
+21	40	
+11	0	0
+618	
+-25
+CZE	
+Patrik Rikl
+23	40	
+-4
+12	14	0
+619	
+-5
+NZL	
+Rubin Statham
+35	40	
+12	0	0
+620	
+-5
+ARG	
+Franco Emanuel Egea
+26	40	
+19	0	0
+621	
++1
+IND	
+Manish Sureshkumar
+22	40	
++1
+21	1	0
+622	
++24
+ROU	
+Sebastian Gima
+20	40	
++4
+24	0	0
+623	
+-5
+AUT	
+Lukas Krainer
+21	40	
+26	0	0
+624	
+-5
+GER	
+Tobias Simon
+31	40	
+34	0	0
+625	
++3
+CHN	
+Zhe Li
+35	39	
++1
+16	4	0
+626	
+-18
+ITA	
+Julian Ocleppo
+24	39	
+-2
+18	2	0
+627	
+-4
+USA	
+Alfredo Perez
+25	39	
+23	0	0
+628	
+-11
+BOL	
+Federico Zeballos
+33	39	
+-1
+24	3	0
+629	
+-5
+GER	
+Dominik Boehler
+26	39	
+25	0	0
+630	
+-5
+ITA	
+Andrea Basso
+28	39	
+29	0	0
+631	
+-5
+IND	
+Yuki Bhambri
+29	38	
+3	0	0
+632	
+-5
+CRO	
+Matija Pecotic
+32	38	
+9	5	0
+633	
+-28
+FRA	
+Jules Okala
+24	38	
+-3
+12	10	0
+634	
+-5
+SRB	
+Marko Tepavac
+28	38	
+16	1	0
+635	
++65
+CZE	
+Dominik Palan
+21	38	
++8
+24	0	0
+636	
++141
+GER	
+Sebastian Prechtel
+26	38	
++15
+32	2	0
+637	
+-17
+USA	
+Evan King
+30	37	
+-2
+12	2	0
+638	
++4
+GER	
+Marko Topo
+18	37	
++1
+14	0	0
+639	
+-8
+JPN	
+Ryota Tanuma
+26	37	
+-1
+24	3	0
+640	
+-4
+BEL	
+Arnaud Bovy
+21	37	
+30	3	0
+641	
+-3
+BRA	
+Rogerio Dutra Silva
+38	36	
+6	0	0
+642	
+-3
+USA	
+Eliot Spizzirri
+20	36	
+6	0	0
+643	
+-3
+UKR	
+Viacheslav Bielinskyi
+18	36	
+9	0	0
+644	
+-3
+AUS	
+Philip Sekulic
+18	36	
+11	0	0
+645	
+-15
+RUS	
+Artem Dubrivnyy
+23	36	
+-2
+16	4	0
+646	
+-3
+MEX	
+Gerardo Lopez Villasenor
+27	36	
+18	1	0
+647	
+-3
+GBR	
+Harry Wendelken
+20	36	
+21	0	0
+648	
+-3
+SLO	
+Tomas Lipovsek Puches
+29	36	
+21	1	0
+649	
++3
+ITA	
+Marco Brugnerotto
+26	36	
++1
+21	0	0
+650	
+-2
+ROU	
+Alexandru Jecan
+33	36	
+25	2	0
+651	
+-16
+GER	
+Kai Wehnelt
+26	36	
+-1
+29	0	0
+652	
+-2
+FRA	
+Alexis Musialek
+33	36	
+32	1	0
+653	
+-2
+ECU	
+Diego Hidalgo
+29	35	
+20	0	0
+654	
+-20
+AUT	
+David Pichler
+26	35	
+-2
+27	3	0
+655	
+-1
+UKR	
+Oleksandr Ovcharenko
+20	35	
+27	0	0
+656	
+-1
+PER	
+Jorge Panta
+26	35	
+27	0	0
+657	
+-8
+JPN	
+Yusuke Takahashi
+24	35	
+-1
+27	3	0
+658	
++5
+GER	
+Oscar Moraing
+22	35	
++1
+28	1	0
+659	
+-3
+JPN	
+Makoto Ochi
+26	35	
+29	0	0
+660	
+-3
+NED	
+Mick Veldheer
+26	35	
+31	0	0
+661	
++25
+ITA	
+Davide Galoppini
+27	35	
++3
+37	2	0
+662	
++14
+SYR	
+Hazem Naw
+22	34	
++2
+13	0	0
+663	
+-4
+USA	
+Alexander Sarkissian
+32	34	
+13	3	0
+664	
+-4
+ARG	
+Federico Agustin Gomez
+25	34	
+18	0	0
+665	
+-4
+BEL	
+Yannick Mertens
+34	34	
+23	0	0
+666	
+-13
+FRA	
+Maxime Hamou
+26	34	
+-1
+23	5	0
+667	
+-3
+RUS	
+Savriyan Danilov
+21	34	
+28	1	0
+668	
+-2
+USA	
+Tim Smyczek
+34	33	
+6	4	0
+669	
+-2
+AUS	
+Moerani Bouzige
+22	33	
+9	0	0
+670	
+UZB	
+Sanjar Fayziev
+27	33	
+22	0	0
+671	
+URU	
+Ignacio Carou
+22	33	
+28	0	0
+672	
+ECU	
+Cayetano March
+21	33	
+34	1	0
+673	
++15
+ARG	
+Fermin Tenti
+24	33	
++1
+43	0	0
+674	
+-1
+BEL	
+Steve Darcis
+38	32	
+6	0	0
+675	
++21
+SUI	
+Jerome Kym
+19	32	
++2
+9	0	0
+676	
+-2
+GER	
+Peter Torebko
+34	32	
+10	20	0
+677	
+-2
+GBR	
+Arthur Fery
+19	32	
+10	0	0
+678	
+GBR	
+Oscar Weightman
+20	32	
+14	0	0
+679	
+ITA	
+Gianmarco Ferrari
+21	32	
+15	0	0
+680	
++1
+ARG	
+Mateo Nicolas Martinez
+28	32	
+15	0	0
+681	
+-13
+UKR	
+Danylo Kalenichenko
+28	32	
+-1
+17	3	0
+682	
+-13
+GBR	
+Luke Johnson
+28	32	
+-1
+17	2	0
+683	
+-1
+ARG	
+Tomas Farjat
+21	32	
+19	0	0
+684	
++15
+USA	
+Martin Damm
+18	32	
++2
+21	0	0
+685	
+-23
+GEO	
+Aleksandre Metreveli
+28	32	
+-2
+25	0	0
+686	
+-2
+NED	
+Ryan Nijboer
+22	32	
+32	0	0
+687	
+-2
+ITA	
+Francesco Vilardo
+32	32	
+33	0	0
+688	
+-1
+TUR	
+Marsel Ilhan
+34	32	
+37	0	0
+689	
+-77
+CHN	
+Fajing Sun
+25	31	
+-9
+9	2	0
+690	
+POR	
+Duarte Vale
+23	31	
+15	0	0
+691	
++182
+EST	
+Mark Lajal
+19	31	
++15
+16	0	0
+692	
+-1
+CYP	
+Petros Chrysochos
+26	31	
+16	4	0
+693	
+-1
+UKR	
+Illya Beloborodko
+21	31	
+17	0	0
+694	
+-11
+MDA	
+Alexandr Cozbinov
+27	31	
+-1
+25	1	0
+695	
+-84
+USA	
+Zane Khan
+20	30	
+-10
+4	2	0
+696	
+-1
+ROU	
+Gabi Adrian Boitan
+22	30	
+7	0	0
+697	
++1
+RSA	
+Khololwam Montsi
+19	30	
+14	0	0
+698	
+-1
+ESP	
+Adria Soriano Barrera
+22	30	
+15	0	0
+699	
++11
+RUS	
+Kirill Kivattsev
+24	30	
++1
+22	1	0
+700	
++9
+ESP	
+Benjamin Winter Lopez
+23	30	
++1
+22	1	0
+701	
+FRA	
+Jean Thirouin
+24	30	
+28	1	0
+702	
++1
+GBR	
+Ryan James Storrie
+24	29	
+10	0	0
+703	
+-1
+FRA	
+Jonathan Eysseric
+31	29	
+11	0	0
+704	
+-27
+BRA	
+Rafael Matos
+26	29	
+-3
+11	1	0
+705	
+-1
+CZE	
+Vaclav Safranek
+28	29	
+11	6	0
+706	
+SWE	
+Christian Lindell
+30	29	
+13	1	0
+707	
+-18
+CRO	
+Viktor Galovic
+31	29	
+-2
+13	4	0
+708	
+-1
+CZE	
+Petr Nouza
+23	29	
+14	1	0
+709	
+-16
+IRL	
+Simon Carr
+22	29	
+-2
+16	2	0
+710	
++2
+GEO	
+Saba Purtseladze
+20	29	
+25	0	0
+711	
++2
+FRA	
+Maxence Beauge
+21	29	
+25	0	0
+712	
++19
+ITA	
+Omar Giacalone
+30	29	
++2
+25	0	0
+713	
++7
+SUI	
+Luca Castelnuovo
+25	29	
++1
+26	0	0
+714	
+ARG	
+Leonardo Aboian
+24	29	
+28	0	0
+715	
+USA	
+Nathan Ponwith
+24	29	
+29	0	0
+716	
+ESP	
+Daniel Gimeno-Traver
+36	28	
+9	4	0
+717	
+ITA	
+Enrico Dalla Valle
+24	28	
+10	0	0
+718	
+-10
+KOR	
+Uisung Park
+21	28	
+-1
+16	0	0
+719	
++9
+GBR	
+Giles Hussey
+24	28	
++1
+17	0	0
+720	
+-2
+ESP	
+John Echeverria
+20	28	
+17	0	0
+721	
++75
+JPN	
+Rimpei Kawakami
+21	28	
++7
+17	5	0
+722	
+-11
+ITA	
+Federico Iannaccone
+23	28	
+-1
+21	0	0
+723	
+-4
+MEX	
+Luis Patino
+28	28	
+22	0	0
+724	
+-3
+GBR	
+Mark Whitehouse
+29	28	
+28	0	0
+725	
+-3
+CHI	
+Michel Vernier
+29	28	
+29	0	0
+726	
+-3
+GBR	
+James Ward
+35	27	
+9	5	0
+727	
+-3
+FRA	
+Sadio Doumbia
+31	27	
+13	0	0
+728	
+-3
+ITA	
+Giorgio Tabacco
+18	27	
+14	0	0
+729	
++1
+NED	
+Alec Deckers
+22	27	
+22	0	0
+730	
++10
+RUS	
+Denis Klok
+23	27	
++1
+30	1	0
+731	
++2
+KAZ	
+Aleksandr Nedovyesov
+35	26	
+7	8	0
+732	
++2
+USA	
+Kevin King
+31	26	
+8	0	0
+733	
++2
+TPE	
+Tsung-Hua Yang
+31	26	
+10	0	0
+734	
++2
+DEN	
+Johannes Ingildsen
+24	26	
+13	0	0
+735	
+-9
+CZE	
+Jan Satral
+31	26	
+-1
+14	12	0
+736	
+-7
+USA	
+Toby Alex Kodat
+19	26	
+-1
+15	0	0
+737	
+USA	
+Emil Reinberg
+25	26	
+16	0	0
+738	
+-6
+ITA	
+Lorenzo Bocchi
+24	26	
+-1
+27	0	0
+739	
+FRA	
+Martin Breysach
+20	26	
+29	0	0
+740	
++1
+ARG	
+Facundo Arguello
+29	25	
+5	0	0
+741	
++1
+USA	
+Raymond Sarmiento
+29	25	
+7	9	0
+742	
++1
+DOM	
+Jose Hernandez-Fernandez
+32	25	
+8	3	0
+743	
++1
+ESP	
+Inaki Montes-De La Torre
+19	25	
+9	0	0
+744	
++1
+AUS	
+Harry Bourchier
+26	25	
+10	8	0
+745	
++18
+ITA	
+Matteo Donati
+27	25	
++2
+13	0	0
+746	
++18
+POL	
+Maciej Rajski
+31	25	
++2
+13	0	0
+747	
+-1
+MDA	
+Ilya Snitari
+20	25	
+15	0	0
+748	
+ARG	
+Juan Ignacio Galarza
+28	25	
+18	0	0
+749	
+-2
+ESP	
+Diego Augusto Barreto Sanchez
+20	25	
+19	0	0
+750	
++22
+GRE	
+Petros Tsitsipas
+21	25	
++2
+21	0	0
+751	
+-1
+FRA	
+Robin Bertrand
+19	25	
+26	0	0
+752	
+-1
+VEN	
+Ricardo Rodriguez - Pace
+29	25	
+28	2	0
+753	
+-1
+POR	
+Luis Faria
+22	25	
+30	0	0
+754	
+-1
+ESA	
+Marcelo Arevalo
+31	24	
+5	9	0
+755	
+-1
+CZE	
+Jaroslav Pospisil
+41	24	
+11	0	0
+756	
+-1
+FRA	
+Antoine Cornut-Chauvinc
+21	24	
+14	0	0
+757	
++52
+USA	
+Isaiah Strode
+24	24	
++4
+16	0	0
+758	
+-20
+ARG	
+Juan Bautista Otegui
+23	24	
+-2
+19	0	0
+759	
+-10
+NZL	
+Ajeet Rai
+23	24	
+-1
+21	0	0
+760	
+-2
+GBR	
+Daniel Little
+25	24	
+22	0	0
+761	
+-2
+ITA	
+Andrea Picchione
+23	24	
+25	0	0
+762	
+-1
+LAT	
+Robert Strombachs
+22	24	
+32	0	0
+763	
+-98
+SRB	
+Janko Tipsarevic
+37	23	
+-10
+3	0	0
+764	
+-2
+ARG	
+Juan Martin del Potro
+33	23	
+2	0	0
+765	
+FRA	
+Gleb Sakharov
+33	23	
+12	0	0
+766	
+-39
+FRA	
+Tak Khunn Wang
+30	23	
+-4
+13	3	0
+767	
+-1
+MNE	
+Rrezart Cungu
+23	23	
+14	0	0
+768	
+-1
+AUT	
+Lenny Hampel
+25	23	
+14	0	0
+769	
++2
+FRA	
+Timo Legout
+20	23	
+16	10	0
+770	
+-2
+GBR	
+Blu Baker
+20	23	
+16	0	0
+771	
+-2
+FRA	
+Nathan Seateun
+24	23	
+16	0	0
+772	
+-2
+BRA	
+Eduardo Ribeiro
+24	23	
+16	1	0
+773	
+-16
+IND	
+S D Prajwal Dev
+25	23	
+-1
+17	1	0
+774	
+-1
+JPN	
+Jumpei Yamasaki
+24	23	
+20	0	0
+775	
++22
+ITA	
+Lorenzo Rottoli
+20	23	
++2
+21	1	0
+776	
+-2
+ROU	
+Calin Manda
+24	23	
+22	3	0
+777	
+-17
+SWE	
+Filip Bergevi
+28	23	
+-1
+28	0	0
+778	
++1
+ESP	
+Andres Artunedo Martinavarro
+28	22	
+8	2	0
+779	
++1
+DEN	
+August Holmgren
+24	22	
+8	0	0
+780	
++1
+FRA	
+Gabriel Debru
+16	22	
+10	0	0
+781	
++1
+GER	
+Yannick Maden
+32	22	
+14	0	0
+782	
++2
+ITA	
+Alessandro Ragazzi
+25	22	
+17	0	0
+783	
+-27
+BDI	
+Guy Orly Iradukunda
+26	22	
+-2
+17	4	0
+784	
++48
+USA	
+Bruno Kuzuhara
+18	22	
++4
+17	0	0
+785	
+SLO	
+Matic Spec
+27	22	
+18	0	0
+786	
+FRA	
+Arthur Bouquier
+21	22	
+23	0	0
+787	
++139
+TPE	
+Ray Ho
+22	22	
++8
+24	1	0
+788	
+-1
+FIN	
+Patrik Niklas-Salminen
+25	22	
+26	1	0
+789	
+-14
+AUT	
+Sandro Kopp
+21	22	
+-1
+26	0	0
+790	
+-2
+POL	
+Michal Dembek
+24	22	
+27	2	0
+791	
+-2
+BEL	
+Simon Beaupain
+23	22	
+28	0	0
+792	
+-2
+USA	
+Daniel Nguyen
+31	21	
+3	4	0
+793	
+-2
+USA	
+William Blumberg
+24	21	
+4	0	0
+794	
+-1
+POL	
+Szymon Kielan
+19	21	
+13	0	0
+795	
+-1
+DEN	
+Christian Sigsgaard
+25	21	
+14	4	0
+796	
+-1
+AUT	
+Neil Oberleitner
+22	21	
+18	0	0
+797	
++58
+ESP	
+Daniel Rincon
+19	21	
++4
+18	0	0
+798	
++1
+CZE	
+Adam Pavlasek
+27	21	
+20	2	0
+799	
++1
+ESP	
+Max Alcala Gurri
+19	21	
+22	0	0
+800	
++1
+ITA	
+Luigi Sorrentino
+23	21	
+23	0	0
+801	
+-25
+AUS	
+Matthew Christopher Romios
+23	21	
+-2
+28	0	0
+802	
++1
+TPE	
+Yen-Hsun Lu
+38	20	
+3	0	0
+803	
++1
+COL	
+Eduardo Struvay
+31	20	
+6	2	0
+804	
++142
+NED	
+Deney Wassermann
+21	20	
++8
+10	0	0
+805	
++1
+POL	
+Maks Kasnikowski
+18	20	
+13	0	0
+806	
++2
+ITA	
+Gabriele Piraino
+18	20	
+14	0	0
+807	
++3
+GRE	
+Markos Kalovelonis
+28	20	
+18	5	0
+808	
+-10
+ITA	
+Emiliano Maggioli
+21	20	
+-1
+19	1	0
+809	
++3
+GBR	
+Julian Cash
+25	20	
+20	1	0
+810	
++26
+SWE	
+Karl Friberg
+23	20	
++2
+25	2	0
+811	
+-9
+USA	
+Michael Zhu
+29	20	
+-1
+26	0	0
+812	
++2
+USA	
+Dusty H. Boyer
+28	20	
+28	3	0
+813	
++10
+CAN	
+Kelsey Stevenson
+31	20	
++1
+36	3	0
+814	
+-36
+GBR	
+Lloyd Glasspool
+28	19	
+-3
+5	0	0
+815	
+GBR	
+Millen Hurrion
+22	19	
+6	0	0
+816	
+-158
+IND	
+Saketh Myneni
+34	19	
+-15
+7	0	0
+817	
+-25
+ESP	
+Carlos Boluda-Purkiss
+29	19	
+-2
+9	0	0
+818	
+-2
+ARG	
+Gabriel Alejandro Hidalgo
+31	19	
+10	0	0
+819	
+-2
+FRA	
+Enzo Wallart
+25	19	
+10	0	0
+820	
+-37
+ITA	
+Luca Giacomini
+24	19	
+-3
+13	5	0
+821	
+-2
+LAT	
+Martins Podzus
+27	19	
+13	4	0
+822	
+-2
+EGY	
+Karim-Mohamed Maamoun
+31	19	
+14	3	0
+823	
+-2
+AUS	
+Aaron Addison
+26	19	
+15	0	0
+824	
++3
+SVK	
+Lukas Pokorny
+20	19	
++1
+15	0	0
+825	
++8
+BLR	
+Ivan Liutarevich
+26	19	
++1
+19	0	0
+826	
+-13
+USA	
+Alafia Ayeni
+22	19	
+-1
+19	0	0
+827	
++72
+USA	
+Colin Markes
+25	19	
++4
+20	0	0
+828	
+-6
+CHI	
+Diego Fernandez Flores
+21	19	
+21	0	0
+829	
+-5
+CRO	
+Dino Prizmic
+16	18	
+8	0	0
+830	
+-5
+RUS	
+Savva Polukhin
+23	18	
+10	1	0
+831	
+-24
+FRA	
+Baptiste Crepatte
+27	18	
+-2
+11	0	0
+832	
+-6
+POR	
+Fred Gil
+37	18	
+12	4	0
+833	
++34
+FRA	
+Luka Pavlovic
+22	18	
++2
+13	1	0
+834	
+-4
+HUN	
+Zsombor Velcz
+19	18	
+16	0	0
+835	
+-4
+IND	
+Nitin Kumar Sinha
+23	18	
+16	0	0
+836	
+-25
+ALG	
+Rayane Roumane
+21	18	
+-2
+18	0	0
+837	
++16
+RUS	
+Marat Sharipov
+19	18	
++1
+18	0	0
+838	
+-3
+SRB	
+Viktor Jovic
+20	18	
+24	2	0
+839	
++20
+KAZ	
+Grigoriy Lomakin
+24	18	
++1
+34	1	0
+840	
+POR	
+Daniel Rodrigues
+22	17	
+7	0	0
+841	
+FRA	
+Jules Marie
+30	17	
+8	0	0
+842	
++1
+ARG	
+Santiago De La Fuente
+20	17	
+9	0	0
+843	
+-25
+ARG	
+Manuel Pena Lopez
+24	17	
+-2
+10	6	0
+844	
++4
+GER	
+Max Hans Rehberg
+18	17	
+14	0	0
+845	
+-16
+GER	
+Marvin Netuschil
+30	17	
+-1
+14	0	0
+846	
++25
+ESP	
+Mario Mansilla Diez
+20	17	
++1
+14	0	0
+847	
+USA	
+Michael Redlicki
+28	17	
+14	0	0
+848	
+-3
+ITA	
+Fausto Tabacco
+20	17	
+15	0	0
+849	
++23
+USA	
+Victor Lilov
+18	17	
++1
+15	0	0
+850	
+-1
+GER	
+Christoph Negritu
+28	17	
+15	0	0
+851	
+-1
+FRA	
+Axel Garcian
+19	17	
+16	0	0
+852	
+AUS	
+Brandon Walkin
+27	17	
+16	4	0
+853	
+-2
+POL	
+Yann Wojcik
+25	17	
+17	0	0
+854	
+AUS	
+Blake Ellis
+23	17	
+17	2	0
+855	
++2
+USA	
+Dali Blanch
+19	17	
+20	0	0
+856	
++47
+FRA	
+Florent Bax
+22	17	
++2
+23	0	0
+857	
+-18
+ITA	
+Stefano Battaglino
+23	17	
+-1
+27	0	0
+858	
+SUI	
+Mirko Martinez
+24	17	
+27	1	0
+859	
++1
+GER	
+Kevin Krawietz
+30	16	
+1	0	0
+860	
++1
+SLO	
+Blaz Kavcic
+35	16	
+4	0	0
+861	
++1
+FRA	
+Alexandre Reco
+23	16	
+5	0	0
+862	
++1
+USA	
+Ethan Quinn
+18	16	
+5	0	0
+863	
+-58
+AUS	
+John-Patrick Smith
+33	16	
+-4
+5	0	0
+864	
+USA	
+Tristan Boyer
+21	16	
+8	0	0
+865	
+-21
+ESP	
+Jaume Pla Malfeito
+26	16	
+-1
+8	1	0
+866	
+-1
+USA	
+Collin Altamirano
+26	16	
+11	4	0
+867	
+-1
+ESP	
+Pablo Vivero Gonzalez
+27	16	
+12	0	0
+868	
+UKR	
+Nikita Mashtakov
+23	16	
+12	3	0
+869	
+ITA	
+Tommaso Compagnucci
+22	16	
+12	0	0
+870	
+-24
+CZE	
+Robin Stanek
+27	16	
+-1
+13	1	0
+871	
+-43
+SLO	
+Tom Kocevar-Desman
+31	16	
+-2
+13	2	0
+872	
++83
+ESP	
+David Jorda Sanchis
+27	16	
++4
+16	0	0
+873	
++22
+GER	
+Leopold Zima
+22	16	
++1
+17	0	0
+874	
+NED	
+Guy Den Heijer
+25	16	
+18	0	0
+875	
+RUS	
+Vladislav Ivanov
+22	16	
+18	0	0
+876	
+COL	
+Alejandro Hoyos
+22	16	
+19	0	0
+877	
+ITA	
+Andrea Guerrieri
+23	16	
+19	3	0
+878	
+-44
+ITA	
+Erik Crepaldi
+32	16	
+-2
+19	1	0
+879	
+-23
+JPN	
+Kento Takeuchi
+34	16	
+-1
+20	1	0
+880	
+FRA	
+Nicolas Tepmahc
+20	16	
+23	0	0
+881	
+-44
+JPN	
+Takuto Niki
+34	16	
+-2
+25	2	0
+882	
+-1
+IND	
+N.Sriram Balaji
+32	15	
+3	0	0
+883	
+-1
+ARG	
+Agustin Velotti
+29	15	
+5	0	0
+884	
+-1
+POL	
+Jan Zielinski
+25	15	
+5	0	0
+885	
+-1
+COL	
+Juan Manuel Benitez Chavarriaga
+26	15	
+7	0	0
+886	
+-1
+CHN	
+Ze Zhang
+31	15	
+8	2	0
+887	
+-1
+FRA	
+Quentin Robert
+27	15	
+8	0	0
+888	
+-1
+BRA	
+Guilherme Clezar
+29	15	
+9	0	0
+889	
+ARG	
+Nicolas Alberto Arreche
+27	15	
+10	0	0
+890	
+FRA	
+Maxence Broville
+23	15	
+12	0	0
+891	
+BLR	
+Aliaksandr Bulitski
+29	15	
+13	0	0
+892	
+NED	
+Sidane Pontjodikromo
+21	15	
+14	0	0
+893	
++1
+GEO	
+Aleksandre Bakshi
+24	15	
+14	0	0
+894	
+-1
+SVK	
+Milos Karol
+19	15	
+15	0	0
+895	
++28
+NED	
+Max Houkes
+21	15	
++1
+15	0	0
+896	
+USA	
+Ryan Shane
+28	15	
+17	9	0
+897	
+ITA	
+Marcello Serafini
+19	15	
+18	0	0
+898	
+USA	
+Mwendwa Mbithi
+24	15	
+18	0	0
+899	
++1
+ROU	
+Dan Alexandru Tomescu
+23	15	
+19	0	0
+900	
++1
+FRA	
+Hugo Pontico
+24	15	
+19	1	0
+901	
+-23
+BUL	
+Gabriel Donev
+25	15	
+-1
+19	1	0
+902	
+ESP	
+Bruno Pujol Navarro
+20	15	
+21	0	0
+903	
++22
+CRO	
+Duje Kekez
+29	15	
++1
+21	0	0
+904	
++2
+SUI	
+Louroi Martinez
+23	15	
+22	0	0
+905	
++2
+MKD	
+Gorazd Srbljak
+24	15	
+28	1	0
+906	
++2
+KAZ	
+Dostanbek Tashbulatov
+21	15	
+31	2	0
+907	
++2
+USA	
+Eduardo Nava
+25	14	
+3	0	0
+908	
++2
+GER	
+Daniel Brands
+34	14	
+3	3	0
+909	
++2
+MAR	
+Lamine Ouahab
+37	14	
+7	0	0
+910	
++2
+BRA	
+Jordan Correia
+24	14	
+8	2	0
+911	
++2
+USA	
+Jordi Arconada
+25	14	
+8	9	0
+912	
+-24
+FRA	
+Johan Tatlot
+26	14	
+-1
+9	0	0
+913	
++4
+GBR	
+Jonathan Gray
+25	14	
+9	1	0
+914	
++1
+USA	
+Matt Kuhar
+25	14	
+10	0	0
+915	
++1
+FRA	
+Lilian Marmousez
+20	14	
+10	0	0
+916	
++2
+CAN	
+Benjamin Sigouin
+22	14	
+10	0	0
+917	
++2
+JPN	
+Shinji Hazawa
+23	14	
+11	0	0
+918	
++2
+ITA	
+Fabrizio Ornago
+30	14	
+11	3	0
+919	
++2
+SRB	
+Marko Miladinovic
+21	14	
+12	1	0
+920	
+-50
+BAH	
+Justin Roberts
+25	14	
+-2
+12	2	0
+921	
++1
+CHI	
+Daniel Antonio Nunez
+20	14	
+13	0	0
+922	
++34
+GER	
+Niklas Schell
+23	14	
++2
+15	0	0
+923	
++222
+SWE	
+Leo Borg
+19	14	
++7
+16	0	0
+924	
+-20
+USA	
+Connor Farren
+27	14	
+-1
+21	0	0
+925	
+-46
+USA	
+Adam El Mihdawy
+32	14	
+-2
+21	2	0
+926	
+-21
+BOL	
+Alejandro Mendoza
+32	14	
+-1
+22	1	0
+927	
+JPN	
+Naoki Tajima
+21	14	
+30	1	0
+928	
+ARG	
+Axel Geller
+23	13	
+5	0	0
+929	
+MAR	
+Adam Moundir
+27	13	
+9	0	0
+930	
+ESP	
+Jorge Martinez Martinez
+26	13	
+12	0	0
+931	
++2
+IND	
+Abhinav Sanjeev Shanmugam
+23	13	
+15	2	0
+932	
++2
+ITA	
+Pietro Rondoni
+28	13	
+17	5	0
+933	
+-9
+POR	
+Fabio Coelho
+21	13	
+-1
+18	0	0
+934	
++1
+TPE	
+Tsung-Hao Huang
+22	13	
+19	1	0
+935	
++27
+RUS	
+Yan Sabanin
+32	13	
++1
+20	0	0
+936	
++56
+USA	
+Alexander Bernard
+18	13	
++2
+20	0	0
+937	
+GBR	
+Toby Martin
+29	13	
+24	0	0
+938	
++1
+FRA	
+Constantin Bittoun Kouzmine
+23	13	
+28	0	0
+939	
+-1
+SRB	
+Boris Butulija
+23	13	
+28	1	0
+940	
+USA	
+James Tracy
+19	12	
+1	0	0
+941	
+CAN	
+Gabriel Diallo
+20	12	
+4	0	0
+942	
+ITA	
+Gianluigi Quinzi
+26	12	
+6	0	0
+943	
+BRA	
+Fernando Yamacita
+24	12	
+7	0	0
+944	
++1
+RUS	
+Alexander Zhurbin
+30	12	
+7	2	0
+945	
++135
+FRA	
+Mathieu Scaglia
+23	12	
++4
+10	0	0
+946	
++4
+ITA	
+Marco Bortolotti
+31	12	
+10	7	0
+947	
++1
+HUN	
+Matyas Fuele
+23	12	
+11	0	0
+948	
++1
+CZE	
+Tomas Jirousek
+22	12	
+11	0	0
+949	
++134
+ITA	
+Manuel Mazza
+23	12	
++4
+11	0	0
+950	
++1
+ARG	
+Maximiliano Estevez
+33	12	
+11	0	0
+951	
++1
+JPN	
+Masamichi Imamura
+23	12	
+12	0	0
+952	
+-21
+ITA	
+Luca Vanni
+36	12	
+-1
+13	0	0
+953	
+POR	
+Francisco Cabral
+25	12	
+13	0	0
+954T	
++28
+FRA	
+Lucas Bouquet
+24	12	
++1
+14	0	0
+954T	
+ARG	
+Lorenzo Joaquin Rodriguez
+22	12	
+14	0	0
+956	
+-24
+ITA	
+Alessandro Ingarao
+22	12	
+-1
+15	0	0
+957T	
++65
+JAM	
+Blaise Bicknell
+20	12	
++2
+15	0	0
+957T	
+JPN	
+Kazuma Kawachi
+27	12	
+15	1	0
+959	
+HUN	
+Peter Nagy
+30	12	
+17	0	0
+960	
+FRA	
+Louis Tessa
+24	12	
+17	1	0
+961	
+ITA	
+Gabriele Maria Noce
+26	12	
+18	1	0
+962	
++1
+FRA	
+Maxime Mora
+25	12	
+19	0	0
+963	
++103
+JPN	
+Taisei Ichikawa
+21	12	
++3
+19	0	0
+964	
+-28
+TUR	
+Koray Kirci
+23	12	
+-1
+22	2	0
+965	
+-1
+BUL	
+Simon Anthony Ivanov
+21	12	
+22	0	0
+966	
+-1
+EST	
+Daniil Glinka
+22	12	
+30	0	0
+967	
+-1
+FIN	
+Harri Heliovaara
+32	11	
+4	0	0
+968	
+-1
+CHN	
+Di Wu
+30	11	
+4	2	0
+969	
+-1
+CAN	
+Taha Baadi
+20	11	
+5	0	0
+970	
+-1
+EST	
+Jurgen Zopp
+34	11	
+5	0	0
+971	
+-1
+USA	
+Tristan McCormick
+23	11	
+5	0	0
+972	
++1
+BEL	
+Pierre Yves Bailly
+18	11	
+6	0	0
+973	
+-1
+ZIM	
+Takanyi Garanganga
+31	11	
+6	0	0
+974	
+USA	
+Michael Zheng
+18	11	
+7	0	0
+975	
+TPE	
+Kuan-Yi Lee
+25	11	
+7	0	0
+976	
+-134
+CHN	
+Jie Cui
+24	11	
+-6
+8	3	0
+977	
+-1
+BRA	
+Joao Pedro Sorgi
+28	11	
+8	2	0
+978	
+-31
+ISR	
+Sahar Simon
+21	11	
+-1
+10	0	0
+979	
++28
+ITA	
+Omar Brigida
+23	11	
++1
+10	0	0
+980	
++503
+USA	
+Joshua Sheehy
+25	11	
++8
+11	0	0
+981	
+-3
+ESP	
+Pedro Vives Marcos
+21	11	
+11	2	0
+982	
+-3
+GBR	
+Evan Hoyt
+27	11	
+12	5	0
+983	
++71
+JPN	
+Keisuke Saitoh
+21	11	
++2
+12	0	0
+984	
+-4
+THA	
+Kasidit Samrej
+21	11	
+12	1	0
+985	
+-2
+BEL	
+Loic Cloes
+23	11	
+15	0	0
+986	
+-1
+FRA	
+Thomas Deschamps
+23	11	
+15	0	0
+987	
+-1
+BEL	
+Benjamin Dhoe
+25	11	
+15	1	0
+988	
+-1
+ROU	
+Vlad Andrei Dancu
+23	11	
+16	0	0
+989	
+SWE	
+Simon Freund
+25	11	
+16	0	0
+990	
++72
+UKR	
+Vladyslav Manafov
+29	11	
++2
+16	2	0
+991	
+-3
+ITA	
+Gabriele Bosio
+21	11	
+16	0	0
+992	
++2
+ITA	
+Giorgio Ricca
+27	11	
+21	1	0
+993	
++2
+AUS	
+Matthew Dellavedova
+21	11	
+22	0	0
+994	
++2
+TUN	
+Aziz Ouakaa
+22	11	
+31	0	0
+995	
++2
+SUI	
+Kilian Feldbausch
+16	10	
+4	0	0
+996	
++2
+COL	
+Santiago Giraldo
+34	10	
+4	4	0
+997	
++3
+NED	
+Sem Verbeek
+28	10	
+6	0	0
+998	
+-54
+RUS	
+Ronald Slobodchikov
+28	10	
+-2
+7	1	0
+999	
+-85
+NED	
+Scott Griekspoor
+31	10	
+-4
+7	0	0
+1000	
++661
+DEN	
+Elmer Moller
+18	10	
++8
+8	0	0
+1001T	
+BLR	
+Martin Borisiouk
+21	10	
+8	0	0
+1001T	
+-2
+ITA	
+Giacomo Dambrosi
+20	10	
+8	0	0
+1003	
++1
+CYP	
+Menelaos Efstathiou
+23	10	
+8	0	0
+1004T	
++1
+UKR	
+Aleksandr Braynin
+22	10	
+8	1	0
+1004T	
+-27
+CHN	
+Xin Gao
+28	10	
+-1
+8	2	0
+1006T	
+-4
+USA	
+Kalman L. Boyd
+25	10	
+9	0	0
+1006T	
+AUS	
+Jacob Grills
+26	10	
+9	2	0
+1008	
++2
+BRA	
+Bruno Santanna
+28	10	
+9	0	0
+1009	
+USA	
+Dennis Novikov
+28	10	
+10	0	0
+1010	
++1
+KOR	
+Cheong-Eui Kim
+32	10	
+10	0	0
+1011	
+-3
+SRB	
+Stefan Popovic
+18	10	
+11	0	0
+1012	
+LUX	
+Alex Knaff
+24	10	
+11	0	0
+1013	
+USA	
+A.J. Catanzariti
+26	10	
+11	0	0
+1014	
+FRA	
+Fabien Reboul
+26	10	
+11	0	0
+1015	
+IND	
+Dev Javia
+20	10	
+12	0	0
+1016	
+JPN	
+Taiyo Yamanaka
+20	10	
+13	0	0
+1017	
++42
+CZE	
+Filip Duda
+23	10	
++1
+13	0	0
+1018	
+-1
+FRA	
+Pierre Delage
+21	10	
+14	0	0
+1019	
+-35
+CZE	
+Petr Hajek
+25	10	
+-1
+14	0	0
+1020	
+-62
+EST	
+Vladimir Ivanov
+35	10	
+-2
+14	1	0
+1021T	
+-2
+CRO	
+Domagoj Biljesko
+24	10	
+14	2	0
+1021T	
+-2
+BEL	
+Buvaysar Gadamauri
+21	10	
+14	0	0
+1023T	
++69
+EGY	
+Amr Elsayed
+23	10	
++2
+14	0	0
+1023T	
+-2
+JPN	
+Kazuki Nishiwaki
+27	10	
+14	0	0
+1025	
++33
+HKG	
+Chak Lam Coleman Wong
+17	10	
++1
+15	0	0
+1026	
+-8
+BLR	
+Mikalai Haliak
+23	10	
+15	0	0
+1027	
+-3
+ECU	
+Alvaro Guillen Meza
+19	10	
+15	0	0
+1028	
+-38
+ITA	
+Luca Tomasetto
+26	10	
+-1
+16	1	0
+1029	
+-38
+IND	
+Niki Kaliyanda Poonacha
+27	10	
+-1
+16	1	0
+1030	
+-5
+LTU	
+Matas Vasiliauskas
+20	10	
+17	0	0
+1031	
+-5
+SVK	
+Lukas Palovic
+20	10	
+18	0	0
+1032	
+-4
+USA	
+Fletcher Scott
+23	10	
+19	0	0
+1033	
+-40
+IND	
+Rishab Agarwal
+26	10	
+-1
+20	2	0
+1034	
++67
+GER	
+Paul Woerner
+25	10	
++2
+23	1	0
+1035	
+-5
+UKR	
+Volodoymyr Uzhylovskyi
+34	10	
+24	0	0
+1036T	
+-5
+ARG	
+Julio Cesar Porras
+24	9	
+3	0	0
+1036T	
+-5
+AUS	
+Edward Winter
+17	9	
+3	0	0
+1038	
+-5
+JPN	
+Toshihide Matsui
+44	9	
+3	0	0
+1039	
+-5
+AUS	
+Ken Cavrak
+21	9	
+4	0	0
+1040	
+-6
+ESP	
+Ignasi De Rueda De Genover
+24	9	
+5	0	0
+1041	
+-5
+MON	
+Hugo Nys
+31	9	
+5	3	0
+1042	
+-5
+ESP	
+Alejandro Garcia
+20	9	
+5	0	0
+1043	
+-5
+FRA	
+Laurent Rochette
+34	9	
+6	0	0
+1044	
+-5
+USA	
+Joshua Ortlip
+25	9	
+6	0	0
+1045T	
+-4
+BIH	
+Tomislav Brkic
+32	9	
+7	0	0
+1045T	
+-5
+BRA	
+Marcelo Zormann
+25	9	
+7	0	0
+1047	
+-5
+USA	
+Evan Song
+29	9	
+7	3	0
+1048T	
+-5
+FRA	
+Gabriel Petit
+26	9	
+7	0	0
+1048T	
+-5
+RSA	
+Ruan Roelofse
+32	9	
+7	0	0
+1050T	
+-5
+RUS	
+Bekkhan Atlangeriev
+21	9	
+8	0	0
+1050T	
++270
+ITA	
+Gian Marco Ortenzi
+22	9	
++5
+8	0	0
+1052	
+-6
+IND	
+Ishaque Eqbal
+24	9	
+9	0	0
+1053	
+-6
+CHI	
+Matias Soto
+23	9	
+9	0	0
+1054	
+-6
+SYR	
+Kareem Al Allaf
+24	9	
+9	0	0
+1055	
+-6
+FRA	
+Emilien Voisin
+22	9	
+10	0	0
+1056	
+-4
+LTU	
+Vilius Gaubas
+17	9	
+12	0	0
+1057	
+-76
+FRA	
+Louis Dussin
+22	9	
+-2
+12	0	0
+1058	
+-6
+IRL	
+Osgar O'Hoisin
+25	9	
+13	0	0
+1059	
+-3
+BRA	
+Nicolas Zanellato
+20	9	
+13	1	0
+1060T	
+-5
+CHN	
+Tao Mu
+22	9	
+13	0	0
+1060T	
+-3
+IND	
+Digvijaypratap Singh
+21	9	
+13	0	0
+1062	
+-39
+CZE	
+Tadeas Paroulek
+22	9	
+-1
+14	1	0
+1063	
+-3
+BLR	
+Erik Arutiunian
+17	9	
+14	0	0
+1064	
+-3
+AUS	
+Alexander Crnokrak
+22	9	
+15	3	0
+1065	
+-2
+RUS	
+Mikhail Fufygin
+32	9	
+15	0	0
+1066T	
+-38
+UKR	
+Marat Deviatiarov
+28	9	
+-1
+16	0	0
+1066T	
+-1
+ESP	
+Alejandro Manzanera Pertusa
+19	9	
+16	0	0
+1068	
+-4
+POL	
+Michal Mikula
+22	9	
+17	0	0
+1069	
+-42
+JPN	
+Seita Watanabe
+21	9	
+-1
+17	0	0
+1070	
++30
+JPN	
+Daisuke Sumizawa
+23	9	
++1
+21	1	0
+1071	
+-4
+AUT	
+Peter Goldsteiner
+31	9	
+23	0	0
+1072	
+-4
+AUS	
+Luke Saville
+28	8	
+4	0	0
+1073	
+-4
+ESP	
+Albert Alcaraz Ivorra
+27	8	
+4	5	0
+1074	
+-4
+JPN	
+Hikaru Shiraishi
+22	8	
+4	0	0
+1075	
+-104
+CHN	
+Yecong He
+28	8	
+-3
+5	6	0
+1076T	
+-5
+ITA	
+Gianluca Acquaroli
+27	8	
+5	0	0
+1076T	
+-5
+FRA	
+Loris Pourroy
+21	8	
+5	0	0
+1078	
+-5
+AUS	
+Maverick Banes
+30	8	
+6	0	0
+1079	
++228
+POR	
+Henrique Rocha
+18	8	
++4
+6	0	0
+1080	
+-6
+USA	
+Sumit Sarkar
+22	8	
+6	0	0
+1081	
+-78
+GBR	
+Brydan Klein
+32	8	
+-2
+7	3	0
+1082	
+-7
+FRA	
+Cesar Bourgois
+24	8	
+8	0	0
+1083	
+-7
+USA	
+Martin Redlicki
+26	8	
+8	1	0
+1084	
+-7
+ESP	
+Ricardo Ojeda Lara
+29	8	
+8	0	0
+1085	
+-4
+FRA	
+Albano Olivetti
+30	8	
+8	0	0
+1086	
+-7
+KAZ	
+Andrey Golubev
+34	8	
+9	0	0
+1087	
+-6
+NED	
+Daniel De Jonge
+22	8	
+9	0	0
+1088T	
+-4
+CAN	
+Joshua Peck
+23	8	
+10	0	0
+1088T	
+-4
+FRA	
+Lisandru Rodriguez
+19	8	
+10	0	0
+1090	
+-4
+ESP	
+Francisco Andreu Garcia
+21	8	
+10	0	0
+1091	
+-4
+PER	
+Mauricio Echazu
+33	8	
+10	0	0
+1092	
+-4
+ARG	
+Guido Ivan Justo
+24	8	
+10	0	0
+1093	
++37
+URU	
+Francisco Llanes
+20	8	
++1
+11	0	0
+1094	
+-3
+RUS	
+Evgeny Philippov
+20	8	
+13	0	0
+1095	
+-3
+HKG	
+Hong Kit Wong
+23	8	
+13	2	0
+1096	
+-6
+BEL	
+Tibo Colson
+21	8	
+13	0	0
+1097	
+-3
+FRA	
+Ronan Joncour
+25	8	
+14	0	0
+1098	
+-3
+GEO	
+Zura Tkemaladze
+21	8	
+14	1	0
+1099	
+-3
+RUS	
+Matvey Minin
+20	8	
+15	1	0
+1100	
++42
+ARG	
+Alex Barrena
+19	8	
++1
+16	0	0
+1101	
+-4
+GBR	
+Joshua Paris
+26	8	
+17	2	0
+1102	
+-3
+GER	
+Maik Steiner
+27	8	
+18	0	0
+1103	
+-5
+CRC	
+Jesse Flores
+27	8	
+20	0	0
+1104	
+-2
+FRA	
+Hugo Voljacques
+29	7	
+2	0	0
+1105	
+-2
+SRB	
+Matej Sabanov
+29	7	
+2	2	0
+1106T	
+-1
+JPN	
+Haru Inoue
+25	7	
+3	1	0
+1106T	
+-1
+JPN	
+Gengo Kikuchi
+30	7	
+3	1	0
+1108	
+-1
+UKR	
+Artem Smirnov
+34	7	
+4	6	0
+1109T	
++4
+ITA	
+Edoardo Eremin
+28	7	
+4	1	0
+1109T	
+-1
+USA	
+Kyle Kang
+17	7	
+4	0	0
+1111	
+RSA	
+Dylan Salton
+19	7	
+5	0	0
+1112	
+-3
+RUS	
+Pavel Verbin
+20	7	
+5	0	0
+1113	
++2
+TPE	
+Cheng-Yu Yu
+27	7	
+5	2	0
+1114	
+-4
+BEL	
+Julien Cagnina
+27	7	
+6	0	0
+1115	
+-3
+BLR	
+Alexander Zgirovsky
+20	7	
+6	0	0
+1116	
+-3
+NED	
+Alexander Maarten Jong
+22	7	
+6	0	0
+1117	
+USA	
+Jakub Wojcik
+24	7	
+6	0	0
+1118	
++198
+CZE	
+Antonin Bolardt
+23	7	
++3
+7	0	0
+1119T	
+-41
+ITA	
+Mauro De Maio
+20	7	
+-1
+7	0	0
+1119T	
++1
+USA	
+Andrew Fenty
+22	7	
+7	0	0
+1121	
+BRA	
+Thomaz Bellucci
+34	7	
+8	0	0
+1122	
+GER	
+Tim Sandkaulen
+24	7	
+8	0	0
+1123	
++2
+EST	
+Kenneth Raisma
+24	7	
+8	1	0
+1124	
+-2
+ITA	
+Andrea Gola
+20	7	
+9	0	0
+1125	
++3
+POL	
+Wojciech Marek
+20	7	
+9	0	0
+1126	
++3
+BEL	
+Maxime Pauwels
+23	7	
+10	0	0
+1127	
+-1
+ITA	
+Biagio Gramaticopolo
+20	7	
+10	0	0
+1128	
+-39
+USA	
+Aidan Mayo
+19	7	
+-1
+10	1	0
+1129	
++2
+RUS	
+Petr Bar Biryukov
+20	7	
+10	0	0
+1130T	
++2
+NZL	
+Kiranpal Pannu
+25	7	
+10	0	0
+1130T	
+-80
+CRO	
+Alen Rogic-Hadzalic
+25	7	
+-2
+10	2	0
+1132	
++2
+FRA	
+Paul Valsecchi
+24	7	
+11	0	0
+1133	
++2
+BRA	
+Gabriel Ciro Da Silva
+22	7	
+11	0	0
+1134	
++2
+CZE	
+Daniel Siniakov
+19	7	
+13	0	0
+1135	
++4
+BUL	
+Leonid Sheyngezikht
+21	7	
+13	0	0
+1136T	
++60
+THA	
+Maximus Jones
+17	7	
++1
+14	0	0
+1136T	
++4
+SUI	
+Nicolas Parizzia
+23	7	
+14	0	0
+1138T	
++3
+BRA	
+Enrique Bogo
+26	7	
+15	0	0
+1138T	
++59
+GRE	
+Aristotelis Thanos
+21	7	
++1
+15	1	0
+1140	
++2
+URU	
+Franco Roncadelli
+22	7	
+15	0	0
+1141	
++3
+GBR	
+Ben Jones
+24	7	
+16	0	0
+1142	
++4
+BLR	
+Aliaksandr Liaonenka
+23	7	
+17	0	0
+1143	
++4
+TUN	
+Wissam Abderrahman
+18	7	
+19	0	0
+1144	
++60
+EST	
+Kristjan Tamm
+23	7	
++1
+20	2	0
+1145	
++4
+EST	
+Mattias Siimar
+24	6	
+1	0	0
+1146	
++4
+CHI	
+Victor Nunez
+30	6	
+3	0	0
+1147	
++4
+JPN	
+Yuta Kawahashi
+24	6	
+4	0	0
+1148	
++4
+KOR	
+Jung-Woong Na
+29	6	
+4	0	0
+1149	
++148
+CHN	
+Xiaofei Wang
+19	6	
++2
+5	0	0
+1150T	
++3
+SVK	
+Martin Beran
+26	6	
+5	0	0
+1150T	
+-34
+MNE	
+Ljubomir Celebic
+30	6	
+-1
+5	1	0
+1150T	
++3
+FRA	
+Valentin Lapalu
+20	6	
+5	0	0
+1150T	
++8
+NED	
+Niels Lootsma
+27	6	
+5	0	0
+1154	
+-36
+USA	
+Henry Craig
+27	6	
+-1
+5	2	0
+1155	
+SVK	
+Tomas Liska
+23	6	
+6	1	0
+1156	
+JPN	
+Ko Suzuki
+30	6	
+6	3	0
+1157	
+-33
+GER	
+Constantin Schmitz
+26	6	
+-1
+6	0	0
+1158	
++1
+ITA	
+Gianluca Di Nicola
+26	6	
+6	0	0
+1159	
++1
+RUS	
+Kristian Lozan
+23	6	
+6	0	0
+1160T	
++2
+ITA	
+Andrea Bolla
+23	6	
+6	1	0
+1160T	
++2
+USA	
+Alexander Kotzen
+21	6	
+6	0	0
+1160T	
++2
+UZB	
+Saida'Lo Saidkarimov
+24	6	
+6	0	0
+1163	
++3
+RUS	
+Alexey Zakharov
+22	6	
+7	0	0
+1164T	
++3
+USA	
+Drew Baird
+21	6	
+7	0	0
+1164T	
++3
+COL	
+Nicolas Buitrago
+24	6	
+7	0	0
+1164T	
++3
+JPN	
+Soichiro Moritani
+27	6	
+7	2	0
+1167	
++3
+SRB	
+Dusan Obradovic
+21	6	
+8	0	0
+1168	
++3
+USA	
+Alexander Lebedev
+25	6	
+8	0	0
+1169T	
++3
+SLO	
+Nik Razborsek
+28	6	
+8	2	0
+1169T	
++3
+KOR	
+Ji Hoon Son
+27	6	
+8	0	0
+1171	
++68
+RUS	
+Maxim Zhukov
+17	6	
++1
+8	0	0
+1172T	
++3
+RUS	
+Egor Agafonov
+19	6	
+9	0	0
+1172T	
++3
+AUS	
+Kody Pearson
+22	6	
+9	0	0
+1174T	
++4
+NZL	
+Rhett Purcell
+26	6	
+9	1	0
+1174T	
+-41
+NED	
+Bart Stevens
+24	6	
+-1
+9	0	0
+1176	
++7
+FRA	
+Maxime Tchoutakian
+28	6	
+9	1	0
+1177T	
++69
+GER	
+Philip Florig
+18	6	
++1
+10	0	0
+1177T	
++10
+ESP	
+Mario Gonzalez Fernandez
+20	6	
+10	0	0
+1177T	
++1
+USA	
+Garrett Johns
+21	6	
+10	0	0
+1177T	
++1
+AUS	
+Nikita Volonski
+20	6	
+10	0	0
+1181	
++4
+CHN	
+Runhao Hua
+26	6	
+11	0	0
+1182	
+-4
+COL	
+Mateo Gomez
+20	6	
+11	0	0
+1183	
+-46
+GER	
+Marlon Vankan
+21	6	
+-1
+11	0	0
+1184	
++6
+ARG	
+Alan Kohen
+29	6	
+12	0	0
+1185	
++6
+GER	
+Milan Welte
+20	6	
+12	0	0
+1186T	
++82
+ITA	
+Manfred Fellin
+25	6	
++1
+12	0	0
+1186T	
++6
+ARG	
+Lorenzo Gagliardo
+21	6	
+12	0	0
+1186T	
++6
+THA	
+Palaphoom Kovapitukted
+22	6	
+12	3	0
+1186T	
++1
+JPN	
+Kosuke Ogura
+26	6	
+12	0	0
+1190	
++5
+USA	
+Alexander Brown
+23	6	
+13	0	0
+1191	
++74
+BEL	
+Romain Faucon
+19	6	
++1
+13	0	0
+1192	
++77
+BRA	
+Joao Marcos Nusdeo
+27	6	
++1
+13	1	0
+1193	
++4
+ESP	
+Albert Roglan
+23	6	
+14	2	0
+1194T	
++5
+BRA	
+Joao Victor Couto Loureiro
+19	6	
+16	1	0
+1194T	
++83
+GRE	
+Stefanos Sakellaridis
+17	6	
++1
+16	0	0
+1196	
++4
+ITA	
+Antonio Massara
+26	6	
+16	0	0
+1197	
++3
+SUI	
+Yannik Steinegger
+21	6	
+17	0	0
+1198	
++7
+MKD	
+Tomislav Jotovski
+31	6	
+18	1	0
+1199	
++4
+TPE	
+Chien-hsun Lo
+23	6	
+19	0	0
+1200	
++6
+GBR	
+Alexis Canter
+23	6	
+23	1	0
+1201	
+-98
+SWE	
+Gustav Hansson
+27	5	
+-2
+1	0	0
+1202	
++5
+CHI	
+Felipe Hernandez
+22	5	
+2	0	0
+1203T	
++5
+DEN	
+Benjamin Hannestad
+25	5	
+3	0	0
+1203T	
++5
+SLO	
+Sven Lah
+23	5	
+3	0	0
+1205	
++5
+JPN	
+James Trotter
+22	5	
+3	0	0
+1206T	
++10
+JPN	
+Hiroyasu Ehara
+30	5	
+3	1	0
+1206T	
++5
+UZB	
+Jurabek Karimov
+23	5	
+3	0	0
+1208T	
++4
+BRA	
+Matheus Amorim De Lima
+17	5	
+4	0	0
+1208T	
++4
+IND	
+Vishnu Vardhan
+34	5	
+4	0	0
+1208T	
++4
+IND	
+Siddharth Vishwakarma
+27	5	
+4	0	0
+1211	
++4
+ESP	
+Gerard Granollers
+33	5	
+4	0	0
+1212	
++4
+BRA	
+Gabriel Tumasonis
+26	5	
+4	0	0
+1213	
++5
+CHN	
+Yuanfeng Li
+28	5	
+4	1	0
+1214T	
++7
+LTU	
+Laurynas Grigelis
+30	5	
+5	0	0
+1214T	
+-58
+AUT	
+Jonas Trinker
+26	5	
+-1
+5	3	0
+1216	
++9
+JPN	
+Yuta Kikuchi
+22	5	
+5	0	0
+1217	
+-57
+FRA	
+Pierre Faivre
+26	5	
+-1
+5	1	0
+1218	
++4
+USA	
+Axel Nefve
+21	5	
+5	0	0
+1219T	
++5
+LTU	
+Tadas Babelis
+25	5	
+6	0	0
+1219T	
+-54
+IND	
+Dalwinder Singh
+26	5	
+-1
+6	0	0
+1221	
+-102
+ECU	
+Gonzalo Escobar
+33	5	
+-2
+6	2	0
+1222T	
++389
+ITA	
+Daniel Bagnolini
+19	5	
++3
+6	0	0
+1222T	
++3
+GER	
+Adrian Obert
+27	5	
+6	1	0
+1224T	
++3
+USA	
+Jacob Dunbar
+26	5	
+6	0	0
+1224T	
++3
+JPN	
+Sora Fukuda
+24	5	
+6	2	0
+1224T	
++3
+FRA	
+Mick Lescure
+28	5	
+6	0	0
+1227T	
++4
+USA	
+Peter Kobelt
+31	5	
+6	1	0
+1227T	
++4
+BRA	
+Christian Oliveira
+22	5	
+6	0	0
+1229	
++6
+ESP	
+Pedro Rodenas
+18	5	
+7	0	0
+1230	
+-3
+ITA	
+Alessandro Pecci
+21	5	
+7	0	0
+1231T	
+-57
+USA	
+Alec Adamson
+27	5	
+-1
+7	1	0
+1231T	
++11
+AUT	
+Jakob Aichhorn
+23	5	
+7	0	0
+1231T	
++204
+JAM	
+Rowland Phillips
+28	5	
++2
+7	0	0
+1231T	
++6
+USA	
+Michael Shabaz
+34	5	
+7	0	0
+1235	
++9
+SWE	
+Simon Yitbarek
+21	5	
+7	0	0
+1236	
++5
+ROU	
+Dragos Dima
+29	5	
+8	0	0
+1237T	
++9
+RUS	
+Sergei Pogosian
+23	5	
+8	1	0
+1237T	
+-60
+USA	
+Austin Rapp
+25	5	
+-1
+8	0	0
+1237T	
++9
+USA	
+Errol Smith
+27	5	
+8	0	0
+1240	
+SUI	
+Noah Lopez
+20	5	
+9	0	0
+1241	
++13
+FRA	
+Tom Jomby
+31	5	
+9	0	0
+1242	
+-64
+CZE	
+Ondrej Krstev
+24	5	
+-1
+9	2	0
+1243T	
+-60
+NED	
+Michiel De Krom
+23	5	
+-1
+9	0	0
+1243T	
++8
+MKD	
+Stefan Micov
+29	5	
+9	1	0
+1243T	
++8
+RUS	
+Mikhail Minakov
+20	5	
+9	0	0
+1243T	
++8
+RUS	
+Nikolay Vylegzhanin
+22	5	
+9	0	0
+1247T	
++104
+CZE	
+Jiri Barnat
+20	5	
++1
+10	0	0
+1247T	
++8
+RUS	
+Timur Kiyamov
+25	5	
+10	0	0
+1247T	
++13
+CRO	
+Frane Nincevic
+22	5	
+10	1	0
+1247T	
+-60
+JPN	
+Takashi Saito
+27	5	
+-1
+10	1	0
+1247T	
++8
+FIN	
+Eero Vasa
+25	5	
+10	0	0
+1252T	
++5
+AUT	
+Philip Bachmaier
+25	5	
+10	0	0
+1252T	
++5
+TUR	
+Berk Ilkel
+20	5	
+10	1	0
+1252T	
++9
+GBR	
+Isaac Stoute
+26	5	
+10	1	0
+1255T	
++93
+ITA	
+Lorenzo Claverie
+19	5	
++1
+11	0	0
+1255T	
++4
+POL	
+Martyn Pawelski
+17	5	
+11	0	0
+1257T	
++101
+SMR	
+Marco De Rossi
+24	5	
++1
+11	0	0
+1257T	
++4
+USA	
+Noah Schachter
+22	5	
+11	0	0
+1257T	
+-63
+ITA	
+Nicolo Turchetti
+25	5	
+-1
+11	1	0
+1260	
++5
+RSA	
+Alec Beckley
+20	5	
+12	0	0
+1261	
++6
+USA	
+William Griffith
+26	5	
+12	0	0
+1262	
++12
+FRA	
+Amaury Raynel
+19	5	
+12	0	0
+1263T	
++6
+IND	
+Siddhant Banthia
+21	5	
+12	1	0
+1263T	
++12
+RUS	
+Boris Pokotilov
+24	5	
+12	1	0
+1263T	
++6
+CZE	
+Dominik Recek
+27	5	
+12	1	0
+1263T	
++6
+GEO	
+George Tsivadze
+29	5	
+12	0	0
+1267	
++9
+USA	
+Ozan Colak
+18	5	
+14	0	0
+1268	
+-66
+IND	
+Adil Kalyanpur
+22	5	
+-1
+17	0	0
+1269	
++9
+TUR	
+Sarp Agabigun
+24	5	
+21	1	0
+1270T	
+SUI	
+Adrian Bodmer
+27	4	
++4
+1	0	0
+1270T	
+SRB	
+Branko Djuric
+17	4	
++4
+1	0	0
+1270T	
++9
+PER	
+Alexander Merino
+29	4	
+1	0	0
+1270T	
++9
+MEX	
+Miguel Angel Reyes-Varela
+34	4	
+1	0	0
+1270T	
++9
+RUS	
+Alexander Vasilenko
+27	4	
+1	0	0
+1275T	
++7
+FRA	
+Leny Mitjana
+27	4	
+2	0	0
+1275T	
++13
+CHN	
+Haitong Xia
+26	4	
+2	1	0
+1277T	
++6
+GER	
+Nino Ehrenschneider
+21	4	
+2	0	0
+1277T	
++6
+USA	
+Robert Galloway
+29	4	
+2	0	0
+1279T	
++6
+CHI	
+Ignacio Antonio Becerra Otarola
+21	4	
+3	0	0
+1279T	
++6
+BOL	
+Juan Carlos Prado Angelo
+17	4	
+3	0	0
+1279T	
++6
+USA	
+Learner Tien
+16	4	
+3	0	0
+1282	
++6
+RSA	
+Vaughn Hunter
+27	4	
+3	0	0
+1283T	
++8
+PER	
+Sergio Galdos
+32	4	
+3	0	0
+1283T	
++8
+FRA	
+Gianni Mina
+30	4	
+3	0	0
+1285T	
++8
+IND	
+Faisal Qamar
+22	4	
+3	0	0
+1285T	
++8
+KOR	
+Sanhui Shin
+25	4	
+3	0	0
+1287T	
++8
+ITA	
+Fabrizio Andaloro
+21	4	
+4	0	0
+1287T	
++8
+CHI	
+Cristobal Castro
+28	4	
+4	0	0
+1289T	
++8
+ISR	
+Roee Benya
+22	4	
+4	0	0
+1289T	
++15
+CHN	
+Ye Cong Mo
+21	4	
+4	0	0
+1289T	
++8
+GBR	
+Brandon Murphy
+21	4	
+4	0	0
+1289T	
+-1
+CHN	
+Chuhan Wang
+30	4	
+4	0	0
+1293	
++7
+JOR	
+Abedallah Shelbayh
+18	4	
+4	0	0
+1294T	
++7
+RUS	
+Alexander Igoshin
+30	4	
+4	1	0
+1294T	
++7
+USA	
+Ronan Jachuck
+20	4	
+4	0	0
+1294T	
+-72
+GER	
+Pascal Meis
+28	4	
+-1
+4	0	0
+1294T	
++7
+ESP	
+Oscar Mesquida Berg
+26	4	
+4	1	0
+1294T	
++258
+BIH	
+Andrej Nedic
+17	4	
++2
+4	0	0
+1299T	
++5
+GBR	
+Andrew Watson
+25	4	
+5	0	0
+1299T	
++5
+CHN	
+Zihao Xia
+25	4	
+5	3	0
+1301T	
++123
+ROU	
+Adrian Mateo Bejenaru
+20	4	
++1
+5	0	0
+1301T	
++6
+THA	
+Yuttana Charoenphon
+21	4	
+5	0	0
+1301T	
++19
+AUS	
+Jesse Delaney
+23	4	
+5	1	0
+1301T	
++6
+ITA	
+Edoardo Graziani
+22	4	
+5	2	0
+1301T	
++6
+TPE	
+Shao-Fan Liu
+25	4	
+5	0	0
+1301T	
+-70
+ESP	
+Sergio Martos Gornes
+27	4	
+-1
+5	0	0
+1307T	
+-73
+RUS	
+Ivan Davydov
+25	4	
+-1
+5	0	0
+1307T	
++4
+RUS	
+Svyatoslav Gulin
+19	4	
+5	0	0
+1307T	
++4
+RSA	
+Siphosothando Montsi
+22	4	
+5	0	0
+1307T	
++4
+COL	
+Juan Sebastian Osorio
+24	4	
+5	0	0
+1311	
++4
+CAN	
+Justin Boulais
+20	4	
+6	0	0
+1312T	
++4
+TPE	
+Wei-De Lin
+26	4	
+6	0	0
+1312T	
++4
+MKD	
+Obrad Markovski
+21	4	
+6	0	0
+1314	
++5
+FIN	
+Iiro Vasa
+19	4	
+6	0	0
+1315T	
++5
+BRA	
+Alex Blumenberg
+30	4	
+6	0	0
+1315T	
++5
+THA	
+Congsup Congcar
+25	4	
+6	3	0
+1315T	
++5
+NED	
+Dax Donders
+21	4	
+6	0	0
+1315T	
+-78
+GER	
+Valentin Guenther
+24	4	
+-1
+6	1	0
+1315T	
++5
+KOR	
+Seong-Gook Oh
+30	4	
+6	0	0
+1315T	
++5
+USA	
+Paul Oosterbaan
+26	4	
+6	0	0
+1315T	
++5
+BUL	
+Simeon Terziev
+19	4	
+6	0	0
+1315T	
++5
+FRA	
+Cyril Vandermeersch
+23	4	
+6	0	0
+1323T	
++7
+BOL	
+Juan Carlos Manuel Aguilar
+23	4	
+6	0	0
+1323T	
++7
+MAR	
+Anas Fattar
+35	4	
+6	0	0
+1323T	
+-12
+FRA	
+Lucas Poullain
+26	4	
+6	0	0
+1323T	
++7
+NED	
+Bart Van Den Berg
+28	4	
+6	1	0
+1327	
++6
+COL	
+Johan Alexander Rodriguez Rodriguez
+18	4	
+7	0	0
+1328	
++6
+USA	
+Dennis Uspensky
+25	4	
+7	0	0
+1329T	
++7
+ROU	
+Vasile Antonescu
+32	4	
+7	0	0
+1329T	
++7
+UKR	
+Yurii Dzhavakian
+29	4	
+7	1	0
+1329T	
++7
+GER	
+Niklas Guttau
+22	4	
+7	2	0
+1329T	
++13
+CHN	
+Wei Qiang Zheng
+25	4	
+7	2	0
+1333	
+-89
+ESP	
+Alex Martinez
+21	4	
+-1
+7	0	0
+1334	
++1
+BRA	
+Luis Britto
+28	4	
+8	0	0
+1335T	
+-93
+SRB	
+Kristijan Juhas
+20	4	
+-1
+8	0	0
+1335T	
+-89
+USA	
+Reese Stalder
+25	4	
+-1
+8	1	0
+1335T	
+-208
+LTU	
+Julius Tverijonas
+27	4	
+-3
+8	1	0
+1335T	
++7
+SUI	
+Jeffrey Von Der Schulenburg
+20	4	
+8	0	0
+1335T	
++7
+ISR	
+Yasha Zemel
+23	4	
+8	0	0
+1340T	
++5
+ESP	
+Pol Amoros Ramos
+24	4	
+8	0	0
+1340T	
++5
+NED	
+Zachary Eisinga
+22	4	
+8	0	0
+1340T	
+NOR	
+Lukas Hellum-Lilleengen
+21	4	
+8	0	0
+1340T	
+BEL	
+Olivier Rojas
+21	4	
+8	0	0
+1344	
++5
+ESP	
+Sergi Perez Contri
+24	4	
+9	0	0
+1345	
++5
+POL	
+Olaf Pieczkowski
+18	4	
+9	0	0
+1346T	
+-295
+ITA	
+Mattia Frinzi
+22	4	
+-5
+9	0	0
+1346T	
+-100
+AUS	
+Calum Puttergill
+28	4	
+-1
+9	1	0
+1346T	
++5
+USA	
+Jake Van Emburgh
+23	4	
+9	0	0
+1346T	
++5
+FRA	
+Edouard Villoslada
+22	4	
+9	0	0
+1350	
++4
+AUT	
+Aleksandar Tomas
+18	4	
+9	1	0
+1351	
+-165
+ROU	
+Victor Vlad Cornea
+28	4	
+-2
+10	0	0
+1352T	
++3
+POR	
+Daniel Batista
+23	4	
+10	1	0
+1352T	
++3
+FRA	
+Alexis Boureau
+26	4	
+10	0	0
+1352T	
++3
+GER	
+Kai Lemstra
+22	4	
+10	0	0
+1355T	
++3
+JPN	
+Kokoro Isomura
+19	4	
+10	0	0
+1355T	
+-86
+RUS	
+Vladimir Korolev
+26	4	
+-1
+10	1	0
+1355T	
++3
+IRI	
+Hamidreza Nadaf
+29	4	
+10	0	0
+1355T	
++118
+SWE	
+Arvid Nordquist
+23	4	
++1
+10	0	0
+1355T	
++3
+RUS	
+Maxim Ratniuk
+26	4	
+10	1	0
+1355T	
+-94
+IND	
+Rishi Reddy
+24	4	
+-1
+10	1	0
+1355T	
+-94
+SWE	
+Marius Ruzgas
+25	4	
+-1
+10	0	0
+1355T	
++118
+USA	
+Tyler Zink
+21	4	
++1
+10	0	0
+1363	
++3
+USA	
+Keenan Mayo
+21	4	
+11	0	0
+1364	
++119
+BOL	
+Boris Arias
+28	4	
++1
+11	0	0
+1365T	
+-227
+RUS	
+Alen Avidzba
+22	4	
+-3
+12	0	0
+1365T	
++1
+ROU	
+Bogdan Borza
+25	4	
+12	0	0
+1367T	
+-4
+CZE	
+Adam Jurajda
+19	4	
+12	0	0
+1367T	
+-4
+CHN	
+Hanyi Liu
+20	4	
+12	0	0
+1367T	
++1
+THA	
+Chanchai Sookton-eng
+25	4	
+12	1	0
+1370T	
+-1
+RUS	
+Alexandr Binda
+20	4	
+13	0	0
+1370T	
++1
+ZIM	
+Mehluli Don Ayanda Sibanda
+22	4	
+13	1	0
+1372	
++760
+GER	
+Adrian Oetzbach
+24	4	
++3
+14	0	0
+1373	
+-1
+EGY	
+Faris Zakaryia
+21	4	
+15	0	0
+1374	
+-1
+GRE	
+Alexandros Skorilas
+22	4	
+16	2	0
+1375	
+-2
+USA	
+Preston Brown
+20	4	
+18	0	0
+1376	
+-228
+THA	
+Wishaya Trongcharoenchaikul
+27	4	
+-3
+20	0	0
+1377T	
+-2
+GBR	
+Max Basing
+19	3	
+1	0	0
+1377T	
+-2
+CHN	
+Mao-Xin Gong
+34	3	
+1	0	0
+1377T	
+-2
+RSA	
+Philip Henning
+21	3	
+1	0	0
+1377T	
+ITA	
+Lorenzo Lorusso
+22	3	
++3
+1	0	0
+1377T	
+SWE	
+Michael Minasyan
+19	3	
++3
+1	0	0
+1377T	
+-2
+LUX	
+Chris Rodesch
+20	3	
+1	0	0
+1377T	
++6
+LIB	
+Giovani Samaha
+27	3	
+1	3	0
+1377T	
+-2
+MEX	
+Manuel Sanchez
+31	3	
+1	0	0
+1377T	
+-2
+BEL	
+Yannick Vandenbulcke
+31	3	
+1	0	0
+1377T	
+-2
+SUI	
+Henry Von Der Schulenburg
+22	3	
+1	0	0
+1387T	
+-12
+ESP	
+Inaki Cabrera Bello
+19	3	
+2	0	0
+1387T	
+-4
+USA	
+Robert Cash
+21	3	
+2	0	0
+1387T	
+-4
+GER	
+Liam Gavrielides
+18	3	
+2	0	0
+1387T	
+-4
+FRA	
+Gregoire Jacq
+29	3	
+2	0	0
+1387T	
++9
+FRA	
+Thomas Laurent
+24	3	
+2	0	0
+1387T	
+-4
+USA	
+Alex Michelsen
+17	3	
+2	0	0
+1387T	
+-4
+GBR	
+Oliver Tarvet
+18	3	
+2	0	0
+1387T	
+SWE	
+Arslanbek Temirhanov
+18	3	
++3
+2	0	0
+1395T	
+-5
+ITA	
+Liam Caruana
+24	3	
+2	0	0
+1395T	
+-5
+TPE	
+Ti Chen
+38	3	
+2	0	0
+1395T	
+-5
+CYP	
+Stylianos Christodoulou
+17	3	
+2	0	0
+1395T	
+-5
+UKR	
+Oleg Dolgosheyev
+31	3	
+2	3	0
+1395T	
+-5
+USA	
+Kweisi Kenyatte
+22	3	
+2	0	0
+1395T	
+-5
+CHI	
+Amador Salazar
+21	3	
+2	0	0
+1401	
+-18
+FRA	
+Paul Inchauspe
+18	3	
+3	0	0
+1402T	
+-4
+FRA	
+Arthur Gea
+17	3	
+3	0	0
+1402T	
+-4
+UKR	
+Olexiy Kolisnyk
+26	3	
+3	0	0
+1402T	
+-4
+IND	
+Bharath Nishok Kumaran
+24	3	
+3	0	0
+1402T	
+-4
+JPN	
+Takuya Kumasaka
+23	3	
+3	1	0
+1402T	
+-4
+KOR	
+Yong-Kyu Lim
+30	3	
+3	0	0
+1402T	
+-4
+POL	
+Piotr Matuszewski
+24	3	
+3	0	0
+1402T	
+-4
+ITA	
+Roberto Miceli
+20	3	
+3	0	0
+1402T	
+-4
+ARG	
+Lautaro Midon
+18	3	
+3	0	0
+1402T	
+-4
+GBR	
+Luka Petrovic
+19	3	
+3	0	0
+1402T	
+-184
+ITA	
+Samuele Ramazzotti
+23	3	
+-2
+3	1	0
+1412T	
+-5
+IND	
+Lohithaksha Bathrinath
+21	3	
+3	0	0
+1412T	
+-5
+HUN	
+Gabor Borsos
+30	3	
+3	1	0
+1412T	
+-5
+GER	
+Luca Gelhardt
+27	3	
+3	0	0
+1412T	
++1
+AUS	
+Cameron Green
+26	3	
+3	1	0
+1412T	
+-192
+ESP	
+Jordi Samper-Montana
+32	3	
+-2
+3	2	0
+1412T	
+-5
+JPN	
+Yamato Sueoka
+19	3	
+3	0	0
+1418	
+-22
+AUS	
+Mitchell Harper
+24	3	
+4	0	0
+1419T	
++494
+ALG	
+Samir Hamza Reguig
+20	3	
++2
+4	0	0
+1419T	
+-8
+USA	
+Jared Hiltzik
+27	3	
+4	0	0
+1419T	
+-8
+ROU	
+Petru-Alexandru Luncanu
+33	3	
+4	0	0
+1422T	
+-9
+MEX	
+Lucas Gomez
+26	3	
+4	0	0
+1422T	
+-9
+NED	
+Jarno Jans
+21	3	
+4	0	0
+1422T	
+-9
+KOR	
+Yeong-Seok Jeong
+22	3	
+4	0	0
+1422T	
+-9
+RUS	
+Matvey Khomentovskiy
+27	3	
+4	1	0
+1422T	
+-9
+KOR	
+Oh-Hee Kwon
+43	3	
+4	0	0
+1422T	
+-9
+SUI	
+Yann Marti
+33	3	
+4	1	0
+1422T	
+-9
+ITA	
+Pietro Pampanin
+19	3	
+4	0	0
+1422T	
+-9
+ARG	
+Luciano Tacchi
+21	3	
+4	0	0
+1430	
+-7
+FRA	
+Theo Arribage
+21	3	
+5	0	0
+1431T	
++2
+ITA	
+Federico Campana
+24	3	
+5	0	0
+1431T	
+-111
+SUI	
+Riccardo Maiga
+32	3	
+-1
+5	2	0
+1431T	
+-7
+RUS	
+Egor Novikov
+20	3	
+5	0	0
+1434T	
+-8
+ECU	
+Andres Andrade
+23	3	
+5	0	0
+1434T	
+-21
+UKR	
+Oleksandr Bielinskyi
+28	3	
+5	0	0
+1434T	
+-8
+AUS	
+Charlie Camus
+15	3	
+5	0	0
+1434T	
+-8
+ITA	
+Alessandro Procopio
+24	3	
+5	0	0
+1434T	
+-8
+USA	
+Gianni Ross
+23	3	
+5	0	0
+1434T	
+-8
+RUS	
+Ilia Simakin
+18	3	
+5	0	0
+1440	
+-8
+BRA	
+Gabriel Roveri Sidney
+25	3	
+6	0	0
+1441T	
++5
+TUR	
+Cengiz Aksu
+23	3	
+6	0	0
+1441T	
+-205
+IRL	
+Peter Bothwell
+26	3	
+-2
+6	1	0
+1441T	
+-8
+RUS	
+Shalva Dzhanashiya
+29	3	
+6	0	0
+1444T	
++167
+SLO	
+Sebastian Dominko
+19	3	
++1
+6	0	0
+1444T	
+-9
+ITA	
+Luca Fantini
+21	3	
+6	0	0
+1444T	
++7
+JPN	
+Yuichiro Inui
+27	3	
+6	1	0
+1444T	
++7
+KOR	
+Dong Ju Kim
+20	3	
+6	0	0
+1444T	
+-9
+ITA	
+Federico Marchetti
+21	3	
+6	0	0
+1444T	
+-9
+JPN	
+Ryuki Matsuda
+22	3	
+6	0	0
+1444T	
+-9
+CZE	
+Jakub Mensik
+16	3	
+6	0	0
+1444T	
+-9
+BUL	
+Nikolay Nedelchev
+18	3	
+6	0	0
+1444T	
+-9
+BEL	
+Tom Pisane
+21	3	
+6	0	0
+1444T	
+-9
+BRA	
+Joao Eduardo Schiessl
+17	3	
+6	0	0
+1454T	
+-8
+FRA	
+Alexandre Aubriot
+22	3	
+7	0	0
+1454T	
+-8
+FRA	
+Lilian Breut
+25	3	
+7	0	0
+1454T	
+-8
+USA	
+Trent Bryde
+22	3	
+7	0	0
+1454T	
+-8
+PAR	
+Adolfo Daniel Vallejo
+18	3	
+7	0	0
+1454T	
+-118
+CHN	
+Chukang Wang
+22	3	
+-1
+7	0	0
+1459T	
+-8
+USA	
+Austin Ansari Ansari
+28	3	
+7	0	0
+1459T	
+-8
+KAZ	
+Sagadat Ayap
+26	3	
+7	1	0
+1459T	
+-8
+GBR	
+Finn Bass
+22	3	
+7	1	0
+1459T	
+-8
+PER	
+Gonzalo Bueno
+18	3	
+7	0	0
+1459T	
+-24
+ITA	
+Giovanni Calvano
+24	3	
+7	0	0
+1459T	
+-8
+ARG	
+Juan Pablo Grassi Mazzuchi
+22	3	
+7	1	0
+1459T	
+-8
+CZE	
+Ondrej Horak
+19	3	
+7	0	0
+1459T	
+-24
+GBR	
+Adam Jones
+24	3	
+7	0	0
+1459T	
++181
+ITA	
+Giuseppe La Vela
+21	3	
++1
+7	0	0
+1459T	
+-8
+BRA	
+Andre Miele
+35	3	
+7	0	0
+1459T	
+-8
+USA	
+Aron Pierce
+25	3	
+7	0	0
+1459T	
++5
+FRA	
+Hugo Schott
+25	3	
+7	0	0
+1459T	
+-114
+HKG	
+Pak Long Yeung
+27	3	
+-1
+7	1	0
+1472T	
+-10
+USA	
+Miles Jones
+21	3	
+8	0	0
+1472T	
+-10
+GBR	
+George Loffhagen
+21	3	
+8	0	0
+1474T	
+-10
+TUR	
+Kuzey Cekirge
+22	3	
+8	0	0
+1474T	
+-10
+TUR	
+Baran Cengiz
+20	3	
+8	0	0
+1474T	
+-10
+GBR	
+Scott Duncan
+27	3	
+8	0	0
+1474T	
+-10
+POR	
+Goncalo Falcao
+34	3	
+8	0	0
+1474T	
+-23
+GER	
+Tom Gentzsch
+18	3	
+8	0	0
+1474T	
+-1
+ISR	
+Roi Ginat
+21	3	
+8	0	0
+1474T	
+-10
+ESP	
+Marc Othman Ktiri
+18	3	
+8	0	0
+1474T	
+-10
+GER	
+Facundo Yunis
+19	3	
+8	0	0
+1482T	
+-10
+MEX	
+Alan Fernando Rubio Fierros
+23	3	
+9	0	0
+1482T	
+TUR	
+Mert Naci Turker
+23	3	
+9	0	0
+1484T	
+-126
+USA	
+William Bushamuka
+26	3	
+-1
+9	1	0
+1484T	
+-11
+PER	
+Petr Iamachkine
+26	3	
+9	0	0
+1484T	
+-11
+BEL	
+Martin Katz
+19	3	
+9	0	0
+1484T	
+-11
+ITA	
+Leonardo Malgaroli
+19	3	
+9	0	0
+1484T	
+-11
+SVK	
+Michal Novansky
+19	3	
+9	0	0
+1484T	
++193
+HAI	
+Hillel Rousseau
+26	3	
++1
+9	0	0
+1490	
+IND	
+Anirudh Chandrasekar
+23	3	
+10	1	0
+1491T	
+-128
+CRO	
+Bozo Barun
+21	3	
+-1
+10	0	0
+1491T	
+-8
+USA	
+Perry Gregg
+21	3	
+10	0	0
+1491T	
+-18
+ARG	
+Sean Hess
+21	3	
+10	0	0
+1491T	
+-8
+ANT	
+Jody Maginley
+26	3	
+10	0	0
+1495	
+-6
+LAT	
+Karlis Ozolins
+19	3	
+11	0	0
+1496T	
+-5
+FRA	
+Mayeul Darras
+23	3	
+11	0	0
+1496T	
+-3
+BEL	
+Maikel De Boes
+20	3	
+11	0	0
+1496T	
+-13
+ITA	
+Andrea Del Federico
+22	3	
+11	0	0
+1496T	
+-3
+AUS	
+James Frawley
+28	3	
+11	0	0
+1500	
+-8
+USA	
+Nicholas Bybel
+28	3	
+12	0	0
+1501	
+-132
+GER	
+Karlo Cubelic
+24	3	
+-1
+12	0	0
+1502	
+-6
+ITA	
+Pietro Marino
+20	3	
+13	0	0
+1503T	
+-5
+PAR	
+Juan Borba
+26	2	
+1	0	0
+1503T	
+-5
+GER	
+Kai Breitbach
+24	2	
+1	0	0
+1503T	
+-5
+GER	
+Rafael Giotis
+21	2	
+1	0	0
+1503T	
+-5
+JPN	
+Yasunori Hashikawa
+23	2	
+1	0	0
+1503T	
+-5
+JPN	
+Yuya Ito
+25	2	
+1	0	0
+1503T	
+-5
+USA	
+Alex Lawson
+28	2	
+1	0	0
+1503T	
+-5
+GBR	
+Johannus Monday
+20	2	
+1	0	0
+1503T	
+-5
+ESP	
+Daniel Munoz de la Nava
+40	2	
+1	0	0
+1503T	
+-5
+IND	
+Purav Raja
+36	2	
+1	0	0
+1503T	
+-5
+RUS	
+Aristarkh Safonov
+19	2	
+1	0	0
+1503T	
+-5
+GER	
+Stefan Seifert
+37	2	
+1	0	0
+1503T	
+-5
+IND	
+Divij Sharan
+36	2	
+1	0	0
+1503T	
+-5
+ISR	
+Igor Smilansky
+27	2	
+1	0	0
+1503T	
+-5
+IND	
+Dhakshineswar Suresh
+22	2	
+1	0	0
+1503T	
+-5
+JPN	
+Ryohei Tagata
+22	2	
+1	0	0
+1503T	
+-5
+ESP	
+David Vega Hernandez
+27	2	
+1	0	0
+1503T	
+-5
+POL	
+Szymon Walkow
+26	2	
+1	0	0
+1520T	
+-5
+MEX	
+Luis Carlos Alvarez
+17	2	
+2	0	0
+1520T	
+HUN	
+Andre Biro
+26	2	
++2
+2	0	0
+1520T	
+-5
+USA	
+Evan Bynoe
+22	2	
+2	0	0
+1520T	
+-5
+SRB	
+Nikola Cacic
+31	2	
+2	0	0
+1520T	
+-5
+TPE	
+Kuan Yu Chen
+21	2	
+2	0	0
+1520T	
+-5
+ITA	
+Lorenzo Frigerio
+33	2	
+2	2	0
+1520T	
+-5
+DEN	
+Henrik Heise Korsgaard
+25	2	
+2	0	0
+1520T	
+-5
+CAN	
+Jack Mingjie Lin
+23	2	
+2	0	0
+1520T	
+-5
+BOL	
+Luis Molina
+22	2	
+2	0	0
+1520T	
+-5
+CAN	
+Nicaise Muamba
+21	2	
+2	0	0
+1520T	
+-5
+THA	
+Tanapatt Nirundorn
+18	2	
+2	0	0
+1520T	
+-5
+UKR	
+Artem Podorozhnyi
+18	2	
+2	0	0
+1520T	
+-5
+BRA	
+Leonardo Telles
+26	2	
+2	0	0
+1520T	
+-5
+CHI	
+Nicolas Villalon
+18	2	
+2	0	0
+1534T	
+-6
+USA	
+Farzin Danny Amiri
+26	2	
+2	0	0
+1534T	
+-6
+GRE	
+Demetris Azoides
+21	2	
+2	0	0
+1534T	
+-6
+ARG	
+Manuel Barros
+28	2	
+2	0	0
+1534T	
+-6
+FRA	
+Sebastien Boltz
+29	2	
+2	0	0
+1534T	
+-6
+ARG	
+Santiago Bramajo
+21	2	
+2	0	0
+1534T	
+-6
+SWE	
+Kevin Chahoud
+20	2	
+2	0	0
+1534T	
+-6
+ROU	
+Nini Gabriel Dica
+21	2	
+2	0	0
+1534T	
+-6
+USA	
+Carson Haskins
+22	2	
+2	0	0
+1534T	
++168
+SWE	
+Adam Heinonen
+19	2	
++1
+2	0	0
+1534T	
+-6
+GER	
+Michel Hopp
+23	2	
+2	0	0
+1534T	
+-6
+KOR	
+Young-Hoon Jeong
+32	2	
+2	0	0
+1534T	
+-6
+AUS	
+Hayden Jones
+15	2	
+2	0	0
+1534T	
+-6
+JPN	
+Sho Katayama
+33	2	
+2	0	0
+1534T	
+-6
+USA	
+Pietro Rimondini
+23	2	
+2	0	0
+1534T	
+-6
+RUS	
+Artur Shakhnubaryan
+25	2	
+2	1	0
+1534T	
+-6
+EST	
+Siim Troost
+22	2	
+2	0	0
+1534T	
+-6
+ARG	
+Nicolas Uryson
+28	2	
+2	1	0
+1551T	
+-5
+GBR	
+Jack Findel-Hawkins
+27	2	
+3	0	0
+1551T	
+-5
+BRA	
+Igor Gimenez
+22	2	
+3	0	0
+1551T	
+-5
+BEL	
+Alexander Hoogmartens
+20	2	
+3	0	0
+1551T	
+-5
+CHN	
+Fnu Nidunjianzan
+18	2	
+3	0	0
+1551T	
+-5
+USA	
+Junior A. Ore
+29	2	
+3	0	0
+1551T	
+-5
+USA	
+Matthew Segura
+21	2	
+3	0	0
+1557T	
+-5
+BRA	
+Filipe Brandao
+30	2	
+3	0	0
+1557T	
+-5
+ITA	
+Lorenzo Brunetti
+26	2	
+3	0	0
+1557T	
++251
+ARG	
+Thiago Cigarran
+22	2	
++1
+3	0	0
+1557T	
+-5
+ESP	
+Tomas Curras Abasolo
+22	2	
+3	0	0
+1557T	
+-5
+ITA	
+Pasquale De Giorgio
+23	2	
+3	0	0
+1557T	
+-5
+AUT	
+Gibril Diarra
+31	2	
+3	0	0
+1557T	
+-5
+POR	
+Francisco Dias
+30	2	
+3	0	0
+1557T	
+-5
+BEL	
+Louis Herman
+21	2	
+3	0	0
+1557T	
+-5
+GER	
+Maximilian Homberg
+19	2	
+3	0	0
+1557T	
+-5
+THA	
+Chayanon Kaewsuto
+26	2	
+3	2	0
+1557T	
+-5
+FRA	
+Raphael Lambling
+22	2	
+3	0	0
+1557T	
+-5
+CZE	
+Dominik Langmajer
+22	2	
+3	0	0
+1557T	
+-5
+MEX	
+Ricardo David Mayagoitia
+27	2	
+3	0	0
+1557T	
+-5
+FRA	
+Joe Misrahi
+18	2	
+3	0	0
+1557T	
++24
+IND	
+Suraj R Prabodh
+27	2	
+3	1	0
+1557T	
+-5
+COL	
+Michael Quintero
+41	2	
+3	0	0
+1557T	
+-5
+FRA	
+Loic Ratsaratany
+22	2	
+3	1	0
+1557T	
+-5
+ITA	
+Giovanni Rizzuti
+27	2	
+3	0	0
+1557T	
+-5
+BRA	
+Laelson Rodrigues
+22	2	
+3	0	0
+1557T	
+-5
+USA	
+Alexandre Rotsaert
+22	2	
+3	0	0
+1557T	
+-5
+IND	
+Atharva Sharma
+21	2	
+3	1	0
+1557T	
+-5
+USA	
+Warren Wood
+28	2	
+3	0	0
+1579T	
+-4
+FRA	
+Boris Fassbender
+24	2	
+4	0	0
+1579T	
+-4
+USA	
+Hunter Heck
+20	2	
+4	0	0
+1579T	
+-4
+POL	
+Marcel Kamrowski
+19	2	
+4	0	0
+1579T	
+-4
+RSA	
+Charl Morgan
+20	2	
+4	0	0
+1579T	
+-4
+USA	
+Preston Touliatos
+26	2	
+4	0	0
+1579T	
+-4
+CZE	
+Matej Vocel
+25	2	
+4	0	0
+1585T	
+-4
+RUS	
+Anton Chekhov
+29	2	
+4	1	0
+1585T	
++26
+ESP	
+Alberto Colas Sanchez
+22	2	
+4	0	0
+1585T	
+-159
+ITA	
+Domenico Cutuli
+26	2	
+-1
+4	1	0
+1585T	
+-4
+FRA	
+Allan Deschamps
+20	2	
+4	0	0
+1585T	
+-4
+ARG	
+Franco Feitt
+29	2	
+4	0	0
+1585T	
+-4
+USA	
+Eric Hadigian
+22	2	
+4	0	0
+1585T	
+-4
+KOR	
+Seon Yong Han
+21	2	
+4	0	0
+1585T	
+-4
+RSA	
+Joshua Howard-Tripp
+22	2	
+4	0	0
+1585T	
+-4
+KAZ	
+Timur Khabibulin
+26	2	
+4	0	0
+1585T	
+-4
+KOR	
+Jae Hwan Kim
+27	2	
+4	0	0
+1585T	
+-4
+NZL	
+Alexander Klintcharov
+25	2	
+4	1	0
+1585T	
+-4
+CAN	
+Christian Lakoseljac
+23	2	
+4	0	0
+1585T	
+-4
+JPN	
+Ryotero Matsumura
+25	2	
+4	0	0
+1585T	
++26
+USA	
+Tyler Mercier
+30	2	
+4	0	0
+1585T	
+-4
+ARG	
+Federico Moreno
+27	2	
+4	1	0
+1585T	
+-4
+RUS	
+Egor Noskin
+22	2	
+4	0	0
+1585T	
+-4
+UKR	
+Anatoliy Petrenko
+26	2	
+4	0	0
+1585T	
+-4
+SVK	
+Samuel Puskar
+22	2	
+4	0	0
+1585T	
+-4
+FRA	
+Olivier Stuart
+24	2	
+4	0	0
+1585T	
+-4
+INA	
+David Agung Susanto
+30	2	
+4	1	0
+1585T	
+-4
+JPN	
+Naoki Takeda
+28	2	
+4	0	0
+1585T	
+-4
+NZL	
+Finn Tearney
+31	2	
+4	1	0
+1585T	
+-4
+NED	
+Jing Long Weng
+21	2	
+4	0	0
+1585T	
+-4
+GER	
+Patrick Zahraj
+22	2	
+4	0	0
+1609T	
+-4
+USA	
+Jack Anthrop
+18	2	
+5	0	0
+1609T	
+-4
+USA	
+Nico Mostardi
+24	2	
+5	0	0
+1609T	
+-4
+MEX	
+Rodrigo Pacheco Mendez
+17	2	
+5	0	0
+1609T	
+-4
+ROU	
+Radu Mihai Papoe
+19	2	
+5	0	0
+1609T	
+-4
+CRO	
+Ante Pavic
+33	2	
+5	2	0
+1614T	
++26
+IND	
+Kunal Anand
+29	2	
+5	0	0
+1614T	
+-3
+SEN	
+Seydina Andre
+18	2	
+5	0	0
+1614T	
+-3
+USA	
+Conor Berg
+30	2	
+5	0	0
+1614T	
++26
+USA	
+Justin Butsch
+27	2	
+5	1	0
+1614T	
+-3
+JPN	
+Shohei Chikami
+23	2	
+5	0	0
+1614T	
+-3
+IND	
+Paras Dahiya
+24	2	
+5	0	0
+1614T	
+-3
+FRA	
+Joffrey De Schepper
+30	2	
+5	0	0
+1614T	
+-3
+NED	
+Marc Dijkhuizen
+26	2	
+5	0	0
+1614T	
++378
+POR	
+Jaime Faria
+18	2	
++1
+5	0	0
+1614T	
+-3
+BRA	
+Caio Gruber
+22	2	
+5	0	0
+1614T	
++26
+ISR	
+Jordan Hasson
+22	2	
+5	0	0
+1614T	
+-33
+CZE	
+Mark Havlicek
+18	2	
+5	0	0
+1614T	
+-3
+RUS	
+Daniel Ibragimov
+19	2	
+5	0	0
+1614T	
+-3
+SWE	
+Niklas Johansson
+23	2	
+5	0	0
+1614T	
+-3
+UKR	
+Oleg Khotkov
+32	2	
+5	0	0
+1614T	
+-3
+POL	
+Filip Kolasinski
+21	2	
+5	0	0
+1614T	
+-3
+ARG	
+Leonardo Lopez Linquet
+20	2	
+5	0	0
+1614T	
+-3
+ESP	
+Ivan Marrero Curbelo
+23	2	
+5	0	0
+1614T	
+-179
+ITA	
+Filippo Moroni
+21	2	
+-1
+5	0	0
+1614T	
++378
+SVK	
+Peter Nad
+18	2	
++1
+5	0	0
+1614T	
+-3
+ROU	
+Bogdan Pavel
+22	2	
+5	0	0
+1614T	
++378
+ITA	
+Gabriele Pennaforti
+21	2	
++1
+5	0	0
+1614T	
++378
+ITA	
+Davide Pontoglio
+29	2	
++1
+5	0	0
+1614T	
++378
+ITA	
+Stefano Reitano
+24	2	
++1
+5	0	0
+1614T	
++429
+SWE	
+Lucas Renard
+29	2	
++1
+5	0	0
+1614T	
+-3
+IND	
+Karan Singh
+18	2	
+5	0	0
+1614T	
+-3
+NZL	
+Mikal Statham
+35	2	
+5	0	0
+1614T	
+-3
+RUS	
+Nikolay Sysoev
+17	2	
+5	0	0
+1614T	
+-33
+CHN	
+Rigele Te
+24	2	
+5	0	0
+1614T	
++26
+GER	
+Max Wiskandt
+20	2	
+5	1	0
+1644T	
+-8
+NED	
+Thiemo de Bakker
+33	2	
+6	0	0
+1644T	
+-8
+CHN	
+Haoyuan Huang
+19	2	
+6	0	0
+1644T	
+-8
+UZB	
+Olimjon Nabiev
+19	2	
+6	0	0
+1644T	
+-39
+ESP	
+Gerard Planelles Ripoll
+18	2	
+6	0	0
+1644T	
+-8
+ITA	
+Edoardo Zanada
+21	2	
+6	0	0
+1649T	
+-9
+ESP	
+Inigo Cervantes
+32	2	
+6	0	0
+1649T	
++394
+USA	
+Gabriel Evans
+25	2	
++1
+6	0	0
+1649T	
+-9
+GER	
+Constantin Frantzen
+24	2	
+6	0	0
+1649T	
+-9
+ITA	
+Dante Gennaro
+29	2	
+6	0	0
+1649T	
+-9
+SVK	
+Andrej Glvac
+25	2	
+6	0	0
+1649T	
+-9
+GBR	
+Jake Hersey
+22	2	
+6	2	0
+1649T	
+-9
+BRA	
+Joao Hinsching
+25	2	
+6	0	0
+1649T	
+-9
+GER	
+Hasan Ibrahim
+26	2	
+6	0	0
+1649T	
++12
+MAR	
+Yassir Kilani
+21	2	
+6	0	0
+1649T	
++12
+FRA	
+Yanais Laurent
+29	2	
+6	0	0
+1649T	
+-9
+AUS	
+William Ma
+26	2	
+6	0	0
+1649T	
+-9
+ITA	
+Giannicola Misasi
+21	2	
+6	0	0
+1649T	
+-9
+ITA	
+Federico Salomone
+21	2	
+6	0	0
+1649T	
+-9
+SVK	
+Marek Semjan
+34	2	
+6	1	0
+1649T	
+-9
+FRA	
+Vivien Versier
+24	2	
+6	0	0
+1649T	
+-9
+RUS	
+Konstantin Zhzhenov
+18	2	
+6	0	0
+1665T	
+-201
+IRL	
+Julian Bradley
+29	2	
+-1
+7	1	0
+1665T	
++12
+CHI	
+Nicolas Bruna
+23	2	
+7	0	0
+1665T	
+-4
+IND	
+Nishant Dabas
+18	2	
+7	0	0
+1665T	
+-4
+ARG	
+Luciano Doria
+29	2	
+7	0	0
+1665T	
+-4
+POR	
+Miguel Gomes
+19	2	
+7	0	0
+1665T	
+-4
+ROU	
+Dragos Constantin Ignat
+29	2	
+7	0	0
+1665T	
+-25
+CZE	
+Jiri Jenicek
+22	2	
+7	1	0
+1665T	
++12
+ISR	
+Orel Kimhi
+18	2	
+7	0	0
+1665T	
++12
+CHI	
+Miguel Fernando Pereira
+23	2	
+7	0	0
+1665T	
+-4
+SVK	
+Peter Benjamin Privara
+17	2	
+7	0	0
+1665T	
+-4
+SUI	
+Raffael Schaer
+20	2	
+7	0	0
+1665T	
+-4
+NED	
+Roland Stuurman
+22	2	
+7	0	0
+1665T	
++12
+JPN	
+Kent Tagashira
+28	2	
+7	0	0
+1665T	
+-4
+COL	
+Andres Urrea
+27	2	
+7	0	0
+1665T	
+-4
+ARG	
+Alejo Vilaro
+26	2	
+7	0	0
+1680T	
+-5
+BOL	
+Luis Diego Chavez Villalpando
+26	2	
+8	0	0
+1680T	
+-5
+ITA	
+Adelchi Virgili
+32	2	
+8	0	0
+1682T	
++8
+MEX	
+Ivar Jose Aramburu Contreras
+28	2	
+8	0	0
+1682T	
+-21
+LTU	
+Edas Butvilas
+17	2	
+8	0	0
+1682T	
++8
+FRA	
+Paul Cayre
+27	2	
+8	1	0
+1682T	
+-21
+AUS	
+Jayden Court
+21	2	
+8	1	0
+1682T	
+-5
+GBR	
+Jack Gibbens
+24	2	
+8	0	0
+1682T	
++8
+SRB	
+Darko Jandric
+27	2	
+8	0	0
+1682T	
+-5
+BUL	
+Petr Nesterov
+19	2	
+8	0	0
+1682T	
+-5
+POL	
+Aleksander Orlikowski
+18	2	
+8	0	0
+1682T	
++8
+ITA	
+Alessandro Petrone
+31	2	
+8	0	0
+1682T	
+-209
+IND	
+Karunuday Singh
+31	2	
+-1
+8	0	0
+1682T	
+-5
+TPE	
+Li-Wei Tan
+26	2	
+8	0	0
+1693T	
++422
+ITA	
+Andres Gabriel Ciurletti
+24	2	
++1
+9	0	0
+1693T	
+-3
+BUL	
+Anthony Genov
+20	2	
+9	0	0
+1693T	
+-210
+IND	
+Aryan Goveas
+23	2	
+-1
+9	0	0
+1693T	
+-3
+POL	
+Piotr Grynkowski
+29	2	
+9	0	0
+1693T	
+-16
+GBR	
+Sean Hodkin
+23	2	
+9	0	0
+1693T	
+-3
+USA	
+Chad Kissell
+26	2	
+9	0	0
+1693T	
+-3
+FRA	
+Hugo Pierre
+26	2	
+9	0	0
+1693T	
+-3
+FRA	
+Mehdi Sadaoui
+19	2	
+9	0	0
+1693T	
+-16
+SWE	
+Christoffer Solberg
+28	2	
+9	0	0
+1702	
+-12
+CZE	
+Matthew William Donald
+17	2	
+10	0	0
+1703	
+-210
+ROU	
+George Botezan
+25	2	
+-1
+11	0	0
+1704T	
++427
+ITA	
+Federico Bertuccioli
+23	2	
++1
+12	0	0
+1704T	
+-4
+ESP	
+Juan Pablo Canas Garcia
+25	2	
+12	0	0
+1704T	
+-3
+GER	
+Tim Heger
+22	2	
+12	0	0
+1704T	
+-208
+JPN	
+Issei Okamura
+29	2	
+-1
+12	1	0
+1708T	
+-6
+CHI	
+Nicolas Acevedo
+22	1	
+1	0	0
+1708T	
+-6
+MAR	
+Amine Ahouda
+24	1	
+1	0	0
+1708T	
+-6
+ITA	
+Davide Albertoni
+26	1	
+1	1	0
+1708T	
+-6
+POL	
+Adrian Andrzejczuk
+26	1	
+1	1	0
+1708T	
+-6
+MEX	
+Isaac Arturo Arevalo
+22	1	
+1	0	0
+1708T	
+-6
+SLO	
+Bor Artnak
+17	1	
+1	0	0
+1708T	
+CZE	
+Hynek Barton
+18	1	
++1
+1	0	0
+1708T	
+-6
+ESP	
+Carles Batlle
+22	1	
+1	0	0
+1708T	
+-6
+ITA	
+Gianluca Beghi
+30	1	
+1	1	0
+1708T	
+-6
+KUW	
+Fouad Behbehani
+21	1	
+1	0	0
+1708T	
+-6
+USA	
+Darwin Blanch
+14	1	
+1	0	0
+1708T	
+-6
+UKR	
+Roman Boychuk
+26	1	
+1	0	0
+1708T	
+-6
+ITA	
+Simone Cacciapuoti
+21	1	
+1	0	0
+1708T	
+-6
+ECU	
+Raul Gerardo Centeno Arteaga
+20	1	
+1	0	0
+1708T	
+-180
+PAK	
+Ahmed Choudhary
+28	1	
+-1
+1	1	0
+1708T	
+-6
+GBR	
+Clay Crawford
+27	1	
+1	0	0
+1708T	
+-6
+CAN	
+Kamen Damov
+23	1	
+1	0	0
+1708T	
+-6
+FRA	
+Constant De La Bassetiere
+24	1	
+1	0	0
+1708T	
+-6
+FRA	
+Clement Deleersnyder
+20	1	
+1	0	0
+1708T	
+-6
+ITA	
+Alessandro Dragoni
+24	1	
+1	0	0
+1708T	
+-6
+TUR	
+Tuncay Duran
+17	1	
+1	0	0
+1708T	
+-6
+GER	
+Felix Einig
+1	
+1	0	0
+1708T	
+-6
+ARG	
+Nicolas Eli
+17	1	
+1	0	0
+1708T	
+-6
+ISR	
+Ron Ellouck
+17	1	
+1	0	0
+1708T	
+-6
+AUT	
+Linus Erhart
+27	1	
+1	0	0
+1708T	
+-6
+AUS	
+Cooper Errey
+16	1	
+1	0	0
+1708T	
+-6
+ITA	
+Lorenzo Favero
+20	1	
+1	0	0
+1708T	
+-6
+USA	
+Tom Fawcett
+26	1	
+1	0	0
+1708T	
+-6
+USA	
+Bradley Frye
+22	1	
+1	0	0
+1708T	
+-6
+CHN	
+Qun Gao
+28	1	
+1	1	0
+1708T	
+-6
+USA	
+Carson Gates
+21	1	
+1	0	0
+1708T	
+-6
+ROU	
+Vasile-Alexandru Ghilea
+28	1	
+1	0	0
+1708T	
+-6
+ROU	
+Teodor Giusca
+22	1	
+1	0	0
+1708T	
+-6
+BRA	
+Asdrubal Gobernate
+27	1	
+1	0	0
+1708T	
+-6
+CHI	
+Javier Gonzalez
+23	1	
+1	0	0
+1708T	
+-6
+SUI	
+Patrik Hartmeier
+25	1	
+1	0	0
+1708T	
+-6
+BEL	
+Tuur Heuvinck
+24	1	
+1	0	0
+1708T	
+-6
+SVK	
+Samuel Hodor
+25	1	
+1	0	0
+1708T	
+-6
+TPE	
+Jeffrey Chuan En Hsu
+25	1	
+1	0	0
+1708T	
+-6
+ARG	
+Matias Iturbe
+20	1	
+1	0	0
+1708T	
+-6
+FRA	
+Yannick Jankovits
+35	1	
+1	0	0
+1708T	
+-6
+AUS	
+Nicholas Jovanovski
+25	1	
+1	0	0
+1708T	
+-6
+GER	
+Din Karahodza
+19	1	
+1	0	0
+1708T	
+-6
+GER	
+Kiyan Santino Kasemi
+18	1	
+1	0	0
+1708T	
+-6
+CRO	
+Karlo Kranic
+23	1	
+1	0	0
+1708T	
+-6
+JPN	
+Hayato Kudo
+23	1	
+1	1	0
+1708T	
+-6
+ECU	
+Miguel Mateo Larrea
+17	1	
+1	0	0
+1708T	
+-6
+NED	
+Christian Lerby
+20	1	
+1	0	0
+1708T	
+-6
+KOR	
+Hyung-Chan Lim
+36	1	
+1	0	0
+1708T	
+-6
+TPE	
+Ping Chen Lin
+19	1	
+1	0	0
+1708T	
+-6
+ARG	
+Lucas Luini
+24	1	
+1	0	0
+1708T	
+-6
+IND	
+Ajay Malik
+19	1	
+1	0	0
+1708T	
+-6
+ITA	
+Daniele Minighini
+17	1	
+1	0	0
+1708T	
+-6
+BUL	
+Vasko Mladenov
+32	1	
+1	0	0
+1708T	
+-6
+COL	
+Daniel Mora
+25	1	
+1	0	0
+1708T	
+-6
+GER	
+Lasse Muscheites
+26	1	
+1	0	0
+1708T	
++100
+FRA	
+François Musitelli
+23	1	
+1	0	0
+1708T	
+-6
+POL	
+Dominik Nazaruk
+25	1	
+1	0	0
+1708T	
+-180
+SVK	
+Patrik Nema
+24	1	
+-1
+1	1	0
+1708T	
+-6
+RUS	
+Viktor Nikitin
+24	1	
+1	0	0
+1708T	
+-6
+THA	
+Noppadol Noikor
+22	1	
+1	0	0
+1708T	
+-6
+SVK	
+Jakub Novak
+27	1	
+1	0	0
+1708T	
+-6
+JPN	
+Kosuke Okagaki
+23	1	
+1	0	0
+1708T	
+-6
+DEN	
+Carl Emil Overbeck
+20	1	
+1	0	0
+1708T	
+-6
+USA	
+Spencer Papa
+26	1	
+1	0	0
+1708T	
+-6
+KOR	
+Jun Sang Park
+27	1	
+1	0	0
+1708T	
+-6
+AUS	
+Thomas Pavlekovich Smith
+21	1	
+1	0	0
+1708T	
+-6
+RUS	
+Alexander Pavlioutchenkov
+36	1	
+1	0	0
+1708T	
+-6
+ESP	
+Miguel Perez Pena
+19	1	
+1	0	0
+1708T	
+-6
+USA	
+Luke Phillips
+23	1	
+1	0	0
+1708T	
+-6
+USA	
+Neel Rajesh
+21	1	
+1	0	0
+1708T	
+MEX	
+Cesar Ramirez
+32	1	
++1
+1	0	0
+1708T	
+-6
+ESP	
+Alejandro Reguant
+23	1	
+1	0	0
+1708T	
+-6
+COL	
+Frazier Rengifo
+23	1	
+1	0	0
+1708T	
+-6
+NED	
+Teun Rozenberg
+19	1	
+1	0	0
+1708T	
+-6
+GER	
+Lambert Ruland
+18	1	
+1	0	0
+1708T	
+-6
+MNE	
+Matija Samardzic
+17	1	
+1	0	0
+1708T	
++100
+SWE	
+Christian Samuelsson
+26	1	
+1	0	0
+1708T	
+-6
+MEX	
+Samuel Sanchez
+20	1	
+1	0	0
+1708T	
++100
+ISR	
+Yair Sarouk
+20	1	
+1	0	0
+1708T	
+-6
+GER	
+Jakob Schnaitter
+26	1	
+1	0	0
+1708T	
+-6
+AUT	
+Julian Schubert
+22	1	
+1	0	0
+1708T	
+-6
+JPN	
+Kazuki Shimizu
+22	1	
+1	1	0
+1708T	
+-6
+CAN	
+Stefan Simeunovic
+17	1	
+1	0	0
+1708T	
+-6
+ITA	
+Alessandro Spadola
+19	1	
+1	0	0
+1708T	
+-6
+USA	
+Wil Spencer
+32	1	
+1	0	0
+1708T	
+-6
+UKR	
+Oleg Stepanenko
+29	1	
+1	0	0
+1708T	
+-6
+JPN	
+Shunrou Takeshima
+31	1	
+1	1	0
+1708T	
+-6
+JPN	
+Shota Tange
+21	1	
+1	0	0
+1708T	
+-6
+POL	
+Mateusz Terczynski
+26	1	
+1	0	0
+1708T	
+ESP	
+Alejandro Turriziani Alvarez
+19	1	
++1
+1	0	0
+1708T	
+-6
+GBR	
+Joe Tyler
+23	1	
+1	0	0
+1708T	
+-6
+BRA	
+Henrique Hamamoto Ushizima
+17	1	
+1	0	0
+1708T	
+-6
+UKR	
+Danylo Veremeychuk
+25	1	
+1	0	0
+1708T	
+-6
+PAR	
+Martin Antonio Vergara Del Puerto
+18	1	
+1	0	0
+1708T	
+-6
+AUS	
+Zack Viiala
+16	1	
+1	0	0
+1708T	
+-6
+GER	
+Leonard Von Hindte
+28	1	
+1	0	0
+1708T	
+-6
+AUS	
+Stefan Vujic
+24	1	
+1	0	0
+1708T	
+-6
+SWE	
+Olle Wallin
+20	1	
+1	0	0
+1708T	
+-6
+GBR	
+Marcus Walters
+24	1	
+1	0	0
+1708T	
+-6
+ISR	
+Ben Weintraub
+18	1	
+1	0	0
+1708T	
+-6
+USA	
+Jesse Witten
+39	1	
+1	0	0
+1708T	
+-6
+USA	
+Logan Zapp
+20	1	
+1	0	0
+1708T	
+-6
+CHN	
+Zhao Zhao
+22	1	
+1	0	0
+1708T	
+-6
+GER	
+Marcel Zielinski
+21	1	
+1	0	0
+1708T	
+-6
+SRB	
+Arsenije Zlatanovic
+32	1	
+1	0	0
+1708T	
+-6
+HUN	
+Mate Zsiga
+30	1	
+1	0	0
+1815T	
+-7
+ITA	
+Simone Agostini
+25	1	
+2	0	0
+1815T	
+-7
+ISR	
+Ran Amar
+23	1	
+2	0	0
+1815T	
+-7
+ISR	
+Ofek Amoyal
+22	1	
+2	0	0
+1815T	
+-7
+ITA	
+Niccolo Baroni
+18	1	
+2	0	0
+1815T	
+-7
+USA	
+Nishesh Basavareddy
+17	1	
+2	0	0
+1815T	
+-7
+MEX	
+Juan Ignacio Batalla
+22	1	
+2	0	0
+1815T	
+-7
+FRA	
+Romain Bauvy
+27	1	
+2	0	0
+1815T	
+-7
+MAR	
+Aissa Benchakroun
+20	1	
+2	0	0
+1815T	
+-7
+CAN	
+Gleb Blekher
+21	1	
+2	0	0
+1815T	
+-7
+GER	
+Florian Broska
+24	1	
+2	0	0
+1815T	
+-7
+USA	
+Vuk Budic
+24	1	
+2	0	0
+1815T	
+-7
+KOR	
+Gerard Campana Lee
+17	1	
+2	0	0
+1815T	
+-7
+ITA	
+Antonio Campo
+28	1	
+2	0	0
+1815T	
+-7
+ITA	
+Luciano Carraro
+24	1	
+2	0	0
+1815T	
+ITA	
+Riccardo Chessari
+26	1	
++1
+2	0	0
+1815T	
+-7
+MAS	
+Christian Didier Chin
+21	1	
+2	0	0
+1815T	
+-7
+KOR	
+Seung-Ri Choi
+31	1	
+2	0	0
+1815T	
+-7
+FRA	
+Charlelie Cosnet
+19	1	
+2	0	0
+1815T	
+-7
+SWE	
+Mans Dahlberg
+19	1	
+2	0	0
+1815T	
+-7
+AUS	
+Jake Delaney
+25	1	
+2	0	0
+1815T	
+-7
+ECU	
+Angel Diaz Jalil
+20	1	
+2	0	0
+1815T	
++98
+FRA	
+Florent Diep
+30	1	
+2	1	0
+1815T	
+-7
+ISR	
+Alon Elia
+26	1	
+2	0	0
+1815T	
+-7
+CUW	
+Michael-John Every
+28	1	
+2	0	0
+1815T	
+-7
+ESP	
+Xavier Gabarro
+22	1	
+2	1	0
+1815T	
+-7
+ARG	
+Agustin Maria Gascia
+25	1	
+2	0	0
+1815T	
+-263
+GUA	
+Wilfredo Gonzalez
+29	1	
+-1
+2	1	0
+1815T	
+-7
+UKR	
+Vladyslav Gorodynskyi
+24	1	
+2	0	0
+1815T	
+-113
+SWE	
+Fabian Hansch Mauritzson
+25	1	
+2	0	0
+1815T	
+-7
+CAN	
+Cleeve Harper
+21	1	
+2	0	0
+1815T	
+-7
+USA	
+Carlos Hassey
+22	1	
+2	0	0
+1815T	
+-7
+USA	
+Ronald Hohmann
+20	1	
+2	0	0
+1815T	
+-7
+AUS	
+David Hough
+24	1	
+2	0	0
+1815T	
+-7
+GBR	
+George Houghton
+23	1	
+2	0	0
+1815T	
+-7
+GBR	
+Emile Hudd
+21	1	
+2	0	0
+1815T	
+-7
+GER	
+Milen Ianakiev
+26	1	
+2	1	0
+1815T	
+-7
+EGY	
+Karim Ibrahim
+18	1	
+2	0	0
+1815T	
+-7
+ITA	
+Davide Innocenti
+22	1	
+2	0	0
+1815T	
+-7
+UKR	
+Dmytro Kamynin
+32	1	
+2	1	0
+1815T	
+-7
+ISR	
+Sean Kamyshev
+20	1	
+2	0	0
+1815T	
+-7
+MAR	
+Hamza Karmoussi
+28	1	
+2	0	0
+1815T	
+-7
+IRI	
+Shahin Khaledan
+31	1	
+2	0	0
+1815T	
++98
+BLR	
+Aleksei Khomich
+25	1	
+2	0	0
+1815T	
+-7
+KOR	
+Young Seok Kim
+27	1	
+2	0	0
+1815T	
+-7
+USA	
+Benjamin Kittay
+18	1	
+2	0	0
+1815T	
+AUT	
+Jan Kobierski
+18	1	
++1
+2	0	0
+1815T	
+-7
+SRB	
+Veljko Krstic
+18	1	
+2	0	0
+1815T	
+-263
+FRA	
+Florian Lakat
+26	1	
+-1
+2	1	0
+1815T	
+-7
+MAR	
+Younes Lalami Laaroussi
+21	1	
+2	0	0
+1815T	
+-7
+BUL	
+George Lazarov
+17	1	
+2	0	0
+1815T	
+-7
+GER	
+Jonas Maier
+25	1	
+2	0	0
+1815T	
+-7
+ESP	
+Jordi Mas De Ugarte
+26	1	
+2	0	0
+1815T	
++98
+JPN	
+Shunsuke Mitsui
+20	1	
+2	0	0
+1815T	
+-7
+PER	
+Rodrigo Nicolas Montes De Oca Murillo
+19	1	
+2	0	0
+1815T	
+-7
+UKR	
+Mykhailo Mossur
+18	1	
+2	0	0
+1815T	
+-7
+ESP	
+Antonio Muniz Hidalgo
+22	1	
+2	0	0
+1815T	
+-7
+IND	
+Anurag Nenwani
+24	1	
+2	0	0
+1815T	
+-7
+ARG	
+Ignacio Novo
+21	1	
+2	0	0
+1815T	
+-7
+DOM	
+Jose Olivares
+25	1	
+2	0	0
+1815T	
++98
+JPN	
+Ken Onishi
+26	1	
+2	0	0
+1815T	
+-7
+FRA	
+Theo Papamalamis
+16	1	
+2	0	0
+1815T	
+-7
+KOR	
+Sung Jun Park
+28	1	
+2	0	0
+1815T	
+-7
+UKR	
+Denis Parshutin
+22	1	
+2	1	0
+1815T	
+-7
+POL	
+Piotr Pawlak
+20	1	
+2	0	0
+1815T	
+-7
+GER	
+Julien Penzlin
+19	1	
+2	0	0
+1815T	
+ITA	
+Valerio Perruzza
+22	1	
++1
+2	0	0
+1815T	
+-7
+NOR	
+Andreja Petrovic
+22	1	
+2	0	0
+1815T	
+-7
+USA	
+Karl Poling
+22	1	
+2	0	0
+1815T	
+-7
+FRA	
+Lilian Prod'Homme
+23	1	
+2	0	0
+1815T	
++98
+ISR	
+Or Ram-Harel
+27	1	
+2	0	0
+1815T	
+-7
+GBR	
+Mason Recci
+25	1	
+2	0	0
+1815T	
+-113
+ESP	
+Nil Regas Luis
+21	1	
+2	0	0
+1815T	
+-7
+AUS	
+Josh Reid
+21	1	
+2	0	0
+1815T	
+-7
+BEL	
+Yannik Reuter
+31	1	
+2	0	0
+1815T	
+-7
+FRA	
+Nicolas Rousset
+22	1	
+2	0	0
+1815T	
+-7
+ALG	
+Toufik Sahtali
+23	1	
+2	0	0
+1815T	
+-7
+GBR	
+Toby Samuel
+19	1	
+2	0	0
+1815T	
+-7
+PER	
+Rodrigo Sanchez
+30	1	
+2	0	0
+1815T	
+-7
+BRA	
+Paulo Andre Saraiva Dos Santos
+21	1	
+2	0	0
+1815T	
+-7
+NED	
+Len Schouten
+23	1	
+2	0	0
+1815T	
+-7
+SWE	
+Markus Schultz
+28	1	
+2	0	0
+1815T	
+-7
+UZB	
+Shonigmatjon Shofayziyev
+28	1	
+2	0	0
+1815T	
+-7
+BLR	
+Yaraslav Shyla
+29	1	
+2	0	0
+1815T	
+-7
+ZIM	
+Muzingaye Sibanda
+24	1	
+2	0	0
+1815T	
+-7
+MAR	
+Imran Sibille
+20	1	
+2	0	0
+1815T	
+-7
+USA	
+Adit Sinha
+18	1	
+2	0	0
+1815T	
+-7
+POL	
+Maciej Smola
+29	1	
+2	0	0
+1815T	
+AUT	
+Tobias Smoliner
+19	1	
++1
+2	0	0
+1815T	
+-7
+AUT	
+Sebastian Sorger
+16	1	
+2	0	0
+1815T	
+-7
+SUI	
+Luca Staeheli
+22	1	
+2	0	0
+1815T	
+SWE	
+Jonathan Stenberg
+32	1	
++1
+2	0	0
+1815T	
+-7
+GRE	
+Ioannis Stergiou
+27	1	
+2	1	0
+1815T	
+-7
+POR	
+Illia Stoliar
+22	1	
+2	0	0
+1815T	
+-7
+SWE	
+Gustaf Strom
+20	1	
+2	0	0
+1815T	
+-7
+IND	
+Gokul Suresh
+25	1	
+2	1	0
+1815T	
+-7
+SRB	
+Luka Todorovic
+19	1	
+2	0	0
+1815T	
+-7
+UKR	
+Vadym Ursu
+25	1	
+2	0	0
+1815T	
+-7
+USA	
+Quinn Vandecasteele
+19	1	
+2	0	0
+1815T	
+-7
+CRO	
+Antun Vidak
+29	1	
+2	1	0
+1815T	
+-7
+AUS	
+Lucas Vuradin
+23	1	
+2	0	0
+1815T	
+-7
+FRA	
+Arthur Weber
+30	1	
+2	0	0
+1815T	
+-7
+GER	
+Michael Weindl
+26	1	
+2	0	0
+1815T	
+-7
+GBR	
+Phoenix Weir
+16	1	
+2	0	0
+1815T	
+-7
+FRA	
+Max Westphal
+18	1	
+2	0	0
+1815T	
+-7
+GER	
+Yannick Wunderlich
+18	1	
+2	0	0
+1815T	
+-7
+JPN	
+Kento Yamada
+23	1	
+2	0	0
+1815T	
+-7
+POL	
+Borys Zgola
+18	1	
+2	0	0
+1815T	
+-7
+SRB	
+Goran Zivotic
+20	1	
+2	0	0
+1815T	
+-7
+CRO	
+Deni Zmak
+32	1	
+2	0	0
+1924T	
+-11
+SGP	
+Shaheed Alam
+23	1	
+3	0	0
+1924T	
+-11
+USA	
+Nevin Arimilli
+22	1	
+3	0	0
+1924T	
+-11
+GHA	
+Abraham Asaba
+25	1	
+3	0	0
+1924T	
+-11
+RSA	
+Devin Badenhorst
+18	1	
+3	0	0
+1924T	
+-11
+PER	
+Gianluca Ballotta
+18	1	
+3	0	0
+1924T	
+-11
+USA	
+Samir Banerjee
+18	1	
+3	0	0
+1924T	
+-116
+ISR	
+Shay Bar Menahem
+18	1	
+3	0	0
+1924T	
+-11
+AUS	
+David Barclay
+31	1	
+3	1	0
+1924T	
+-11
+TUN	
+Ameur Ben Hassen
+28	1	
+3	0	0
+1924T	
++68
+MAR	
+Mehdi Benchakroun
+18	1	
+3	0	0
+1924T	
+-116
+HUN	
+Attila Boros
+18	1	
+3	0	0
+1924T	
+-11
+RSA	
+Vasilios Caripi
+30	1	
+3	0	0
+1924T	
+-11
+ITA	
+Leonardo Catani
+22	1	
+3	0	0
+1924T	
+-11
+ITA	
+Paolo Dagnino
+24	1	
+3	0	0
+1924T	
++68
+FRA	
+Amaury Delmas
+24	1	
+3	0	0
+1924T	
+-11
+ARG	
+Felipe Derdoy
+25	1	
+3	0	0
+1924T	
+-11
+SLO	
+Matic Dimic
+20	1	
+3	0	0
+1924T	
++68
+ISR	
+Shahar Elbaz
+25	1	
+3	0	0
+1924T	
+PAR	
+Hernando Jose Escurra Isnardi
+24	1	
++1
+3	0	0
+1924T	
+-116
+AUS	
+Tom Evans
+21	1	
+3	0	0
+1924T	
+-11
+GBR	
+Patrick Foley
+27	1	
+3	0	0
+1924T	
+-11
+BEL	
+Clement Geens
+26	1	
+3	0	0
+1924T	
+-11
+AUT	
+Michael Gloeckler
+23	1	
+3	0	0
+1924T	
+-11
+FRA	
+Adrien Gobat
+20	1	
+3	0	0
+1924T	
+-11
+FRA	
+Quentin Gueydan
+27	1	
+3	0	0
+1924T	
+-11
+NED	
+Mats Hermans
+26	1	
+3	0	0
+1924T	
+-11
+USA	
+Trey Hilderbrand
+22	1	
+3	0	0
+1924T	
+-11
+GBR	
+Edward Hubner
+24	1	
+3	0	0
+1924T	
+GBR	
+William Jansen
+17	1	
++1
+3	0	0
+1924T	
+-11
+KOR	
+Geun Jun Kim
+20	1	
+3	0	0
+1924T	
+-11
+RUS	
+Maxim Krapivin
+22	1	
+3	1	0
+1924T	
+-11
+LAT	
+Arturs Lazdins
+25	1	
+3	0	0
+1924T	
+-11
+KOR	
+Tae-Woo Lee
+30	1	
+3	0	0
+1924T	
+-11
+POR	
+Martim Leote Prata
+21	1	
+3	0	0
+1924T	
+-11
+FIN	
+Aleksi Lofman
+20	1	
+3	0	0
+1924T	
+-11
+MEX	
+Luis Humberto Lopez
+24	1	
+3	0	0
+1924T	
+-11
+ROU	
+Radu Florin Macovei
+21	1	
+3	0	0
+1924T	
+-11
+BAH	
+Kevin Major
+27	1	
+3	0	0
+1924T	
+-11
+POR	
+Diogo Marques
+22	1	
+3	0	0
+1924T	
+-11
+CAN	
+Dan Martin
+23	1	
+3	0	0
+1924T	
+-11
+USA	
+Matthew Mendez
+26	1	
+3	0	0
+1924T	
+-11
+BUL	
+Yanaki Milev
+18	1	
+3	0	0
+1924T	
+-11
+ARG	
+Federico Mirgone
+21	1	
+3	0	0
+1924T	
+-11
+RUS	
+Kirill Mishkin
+19	1	
+3	0	0
+1924T	
+-11
+KOR	
+Ju-Hae Moon
+33	1	
+3	0	0
+1924T	
+-11
+KUW	
+Abdulhamid Mubarak
+28	1	
+3	0	0
+1924T	
+-11
+SGP	
+Hao Yuan Ng
+27	1	
+3	1	0
+1924T	
+-11
+AUS	
+Benard Bruno Nkomba
+22	1	
+3	0	0
+1924T	
+-11
+BRA	
+Lucas Obeid
+21	1	
+3	0	0
+1924T	
+-11
+GER	
+Jannik Opitz
+24	1	
+3	0	0
+1924T	
+-11
+FRA	
+Rayane Oumaouche
+24	1	
+3	0	0
+1924T	
+-11
+RUS	
+Alexander Ovcharov
+23	1	
+3	1	0
+1924T	
+-11
+FRA	
+Bradley Paliska
+19	1	
+3	0	0
+1924T	
+-11
+CZE	
+Yvo Panak
+26	1	
+3	0	0
+1924T	
+-11
+KOR	
+Minjong Park
+20	1	
+3	0	0
+1924T	
+-11
+USA	
+Jordan Parker
+28	1	
+3	0	0
+1924T	
+-11
+ITA	
+Samuele Pieri
+20	1	
+3	0	0
+1924T	
+-11
+SRB	
+Petar Pjevcevic
+26	1	
+3	0	0
+1924T	
+-11
+LAT	
+Janis Podzus
+27	1	
+3	0	0
+1924T	
+-11
+SRB	
+Mihailo Popovic
+21	1	
+3	0	0
+1924T	
+-11
+SRB	
+Strahinja Rakic
+26	1	
+3	0	0
+1924T	
+-11
+USA	
+Nicholas Reyes
+27	1	
+3	0	0
+1924T	
+-11
+LAT	
+Martins Rocens
+22	1	
+3	0	0
+1924T	
+-11
+MEX	
+Eduardo Roldan
+23	1	
+3	0	0
+1924T	
+-11
+GER	
+Jeremy Schifris
+20	1	
+3	0	0
+1924T	
+-11
+USA	
+Nicholas Shamma
+25	1	
+3	0	0
+1924T	
+GBR	
+Michael Shaw
+23	1	
++1
+3	0	0
+1924T	
+-11
+ZIM	
+Ethan Denzel Sibanda
+17	1	
+3	0	0
+1924T	
+-11
+SWE	
+Nikola Slavic
+21	1	
+3	0	0
+1924T	
+-11
+THA	
+Thantub Suksumrarn
+21	1	
+3	0	0
+1924T	
+-11
+POL	
+Jasza Szajrych
+20	1	
+3	0	0
+1924T	
+-116
+BIH	
+Vladan Tadic
+21	1	
+3	0	0
+1924T	
+-11
+JPN	
+Taketo Takamisawa
+24	1	
+3	0	0
+1924T	
+-11
+ISR	
+Gilad Tamar
+22	1	
+3	0	0
+1924T	
+-116
+SWE	
+Robin Thour
+27	1	
+3	0	0
+1924T	
+-11
+LTU	
+Pijus Vaitiekunas
+19	1	
+3	0	0
+1924T	
+-11
+PER	
+Duilio Vallebuona
+29	1	
+3	0	0
+1924T	
+-11
+LTU	
+Robertas Vrzesinski
+24	1	
+3	0	0
+1924T	
+-11
+JPN	
+Shunsuke Wakita
+26	1	
+3	0	0
+1924T	
+-11
+USA	
+Emmett Ward IV
+27	1	
+3	0	0
+2004T	
+-12
+ALG	
+Mohamed Ali Abibsi
+19	1	
+4	0	0
+2004T	
+-12
+UKR	
+Nikita Alosha
+22	1	
+4	0	0
+2004T	
+-12
+COL	
+Jose Daniel Bendeck
+31	1	
+4	0	0
+2004T	
+-12
+POL	
+Alan Bojarski
+18	1	
+4	0	0
+2004T	
+-12
+ISR	
+Aaron Cohen
+19	1	
+4	0	0
+2004T	
+-12
+IND	
+Terence Das
+20	1	
+4	0	0
+2004T	
+-12
+CAN	
+Riaan Du Toit
+28	1	
+4	0	0
+2004T	
++39
+MKD	
+Besir Durguti
+28	1	
+4	0	0
+2004T	
+-12
+AUS	
+Patrick Fitzgerald
+26	1	
+4	0	0
+2004T	
+-12
+GBR	
+David Fox
+28	1	
+4	0	0
+2004T	
+-12
+ARG	
+Tobias Franco
+20	1	
+4	0	0
+2004T	
++39
+USA	
+George Goldhoff
+27	1	
+4	0	0
+2004T	
+-12
+USA	
+Gui Gomes
+24	1	
+4	0	0
+2004T	
+-12
+COL	
+Sergio Luis Hernandez Ramirez
+22	1	
+4	0	0
+2004T	
+-12
+GBR	
+Alexander Jhun
+27	1	
+4	0	0
+2004T	
+-91
+BRA	
+Elio Jose Ribeiro Lago
+24	1	
+4	0	0
+2004T	
+-12
+IND	
+Madhwin Kamath
+20	1	
+4	0	0
+2004T	
+-12
+KOR	
+Sung Hun Kim
+26	1	
+4	0	0
+2004T	
+-12
+RSA	
+Luc Koenig
+18	1	
+4	0	0
+2004T	
+-393
+CZE	
+Michal Konecny
+32	1	
+-1
+4	0	0
+2004T	
++39
+RUS	
+Mikhail Korovin
+26	1	
+4	0	0
+2004T	
+-393
+KEN	
+Sheil Kotecha
+22	1	
+-1
+4	0	0
+2004T	
+-12
+ROU	
+Alexandru Vasile Manole
+23	1	
+4	1	0
+2004T	
++39
+SRB	
+Goran Markovic
+26	1	
+4	1	0
+2004T	
+-91
+GER	
+Jannik Maute
+18	1	
+4	0	0
+2004T	
+-12
+MAS	
+Shamirul Shahril Mohd Adam Das
+21	1	
+4	0	0
+2004T	
+ESP	
+Javier Molino
+21	1	
++1
+4	0	0
+2004T	
+-12
+FRA	
+Joris Moret
+20	1	
+4	0	0
+2004T	
+-12
+POL	
+Filip Pieczonka
+18	1	
+4	0	0
+2004T	
+-12
+KUW	
+Essa Qabazard
+20	1	
+4	0	0
+2004T	
+-12
+GBR	
+Giacomo Revelli
+20	1	
+4	0	0
+2004T	
+-12
+ARG	
+Franco Ribero
+22	1	
+4	0	0
+2004T	
+-12
+NOR	
+Leyton Rivera
+20	1	
+4	0	0
+2004T	
+-12
+EST	
+Karl Kiur Saar
+26	1	
+4	0	0
+2004T	
+-12
+ARG	
+Marco Saffratti
+22	1	
+4	0	0
+2004T	
++39
+POR	
+Afonso Salgado
+25	1	
+4	1	0
+2004T	
+-12
+ITA	
+Pietro Romeo Scomparin
+21	1	
+4	0	0
+2004T	
+-12
+GER	
+John Sperle
+20	1	
+4	0	0
+2004T	
+-91
+GRE	
+Ioannis Stamoulos
+18	1	
+4	0	0
+2004T	
++39
+CZE	
+Ondrej Styler
+21	1	
+4	1	0
+2004T	
+-393
+IND	
+Dhruv Sunish
+22	1	
+-1
+4	0	0
+2004T	
++39
+SRB	
+Sabit Suntic
+21	1	
+4	0	0
+2004T	
+-12
+SWE	
+Sam Taylor
+24	1	
+4	0	0
+2004T	
++39
+AUT	
+Moritz Thiem
+22	1	
+4	0	0
+2004T	
+-12
+ITA	
+Davide Tortora
+21	1	
+4	0	0
+2004T	
+-12
+NED	
+Colin Van Beem
+30	1	
+4	0	0
+2004T	
+-12
+ITA	
+Lorenzo Vatteroni
+21	1	
+4	0	0
+2004T	
+-12
+ARG	
+Bautista Vilicich
+20	1	
+4	0	0
+2004T	
+-12
+FRA	
+Antoine Vincent
+23	1	
+4	0	0
+2004T	
+-12
+ITA	
+Augusto Virgili
+27	1	
+4	0	0
+2004T	
+-393
+NED	
+Niels Visker
+20	1	
+-1
+4	0	0
+2004T	
+-12
+ARG	
+Francisco Vittar
+23	1	
+4	0	0
+2004T	
+-91
+JPN	
+Daiki Yoshimura
+20	1	
+4	0	0
+2004T	
+-12
+CHN	
+Bingyu Yu
+23	1	
+4	0	0
+2004T	
+-12
+CHN	
+Linghao Zhang
+19	1	
+4	0	0
+2004T	
++39
+CHN	
+Sheng Hao Zhou
+25	1	
+4	0	0
+2004T	
+-12
+SRB	
+Matija Zugic
+20	1	
+4	0	0
+2004T	
+-12
+LTU	
+Simonas Zukauskas
+23	1	
+4	0	0
+2062T	
+-19
+CHI	
+Gonzalo Achondo
+24	1	
+5	0	0
+2062T	
+-19
+SUI	
+Raphael Baltensperger
+24	1	
+5	0	0
+2062T	
+-19
+RUS	
+Alexander Boborykin
+25	1	
+5	0	0
+2062T	
+ITA	
+Lorenzo Bresciani
+21	1	
++1
+5	0	0
+2062T	
+-19
+ARG	
+Lautaro Agustin Falabella
+24	1	
+5	0	0
+2062T	
+-19
+ESP	
+Carles Hernandez
+21	1	
+5	0	0
+2062T	
+-19
+USA	
+Aron Hiltzik
+26	1	
+5	0	0
+2062T	
+-422
+USA	
+Mousheg Hovhannisyan
+30	1	
+-1
+5	0	0
+2062T	
+-19
+BIH	
+Aziz Kijametovic
+25	1	
+5	0	0
+2062T	
+-19
+GER	
+Noel Larwig
+20	1	
+5	0	0
+2062T	
+-19
+ZIM	
+Courtney John Lock
+25	1	
+5	0	0
+2062T	
+-19
+ESP	
+Xavi Matas Ortega
+19	1	
+5	0	0
+2062T	
++15
+CZE	
+Daniel Paty
+22	1	
+5	0	0
+2062T	
+-19
+COL	
+Enrique Pena
+18	1	
+5	0	0
+2062T	
+-19
+FRA	
+Benjamin Pietri
+25	1	
+5	0	0
+2062T	
+-19
+ESP	
+Matias Ponce De Leon Gomila
+18	1	
+5	0	0
+2062T	
+-19
+ARG	
+Alan Postay
+25	1	
+5	0	0
+2062T	
+-19
+GER	
+Bastien Presuhn
+21	1	
+5	0	0
+2062T	
+-19
+ITA	
+Luca Prevosto
+23	1	
+5	0	0
+2062T	
+-19
+POR	
+Francisco Rocha
+22	1	
+5	0	0
+2062T	
+-19
+AUS	
+Sam Ryan Ziegann
+23	1	
+5	0	0
+2062T	
+-19
+LTU	
+Ainius Sabaliauskas
+18	1	
+5	0	0
+2062T	
+-19
+GER	
+Benito Sanchez Martinez
+20	1	
+5	0	0
+2062T	
+AUS	
+Jordan Smith
+25	1	
++1
+5	0	0
+2062T	
+ITA	
+Filippo Speziali
+22	1	
++1
+5	0	0
+2062T	
++15
+BEL	
+Martin Van Der Meerschen
+21	1	
+5	0	0
+2062T	
++15
+RUS	
+Dimitriy Voronin
+22	1	
+5	1	0
+2062T	
+-19
+USA	
+Cooper Williams
+16	1	
+5	0	0
+2062T	
+-70
+GER	
+Jimmy Yang
+24	1	
+5	0	0
+2091T	
+-14
+ARG	
+Facundo Arias Bisso
+23	1	
+6	0	0
+2091T	
+ITA	
+Matteo De Vincentis
+24	1	
++1
+6	0	0
+2091T	
+-14
+ARG	
+Mateo Del Pino
+18	1	
+6	0	0
+2091T	
+-14
+RUS	
+Ivan Denisov
+21	1	
+6	0	0
+2091T	
+-14
+FRA	
+Maxime Dubouch
+18	1	
+6	0	0
+2091T	
+-14
+RUS	
+Oscar Galimardanov
+22	1	
+6	0	0
+2091T	
+-14
+ARG	
+Julián Gimenez
+21	1	
+6	0	0
+2091T	
++7
+ISR	
+Lior Goldenberg
+22	1	
+6	0	0
+2091T	
+-14
+JPN	
+Shinnosuke Hiramatsu
+25	1	
+6	1	0
+2091T	
+-14
+RUS	
+Igor Kudriashov
+18	1	
+6	0	0
+2091T	
+-14
+ALG	
+Mohamed Nazim Makhlouf
+25	1	
+6	0	0
+2091T	
+-14
+ROU	
+Vladislav Melnic
+22	1	
+6	0	0
+2091T	
+-14
+TPE	
+Cing-Yang Meng
+23	1	
+6	0	0
+2091T	
+-14
+CZE	
+Petr Michnev
+32	1	
+6	0	0
+2091T	
+-14
+FRA	
+Antoine Monaco
+25	1	
+6	0	0
+2091T	
+-14
+QAT	
+Rashed Nawaf
+16	1	
+6	0	0
+2091T	
+-48
+GER	
+Neo Niedner
+18	1	
+6	0	0
+2091T	
+-14
+TUR	
+S Mert Ozdemir
+22	1	
+6	0	0
+2091T	
+-14
+SUI	
+Aaron Schmid
+21	1	
+6	1	0
+2091T	
+-14
+ARG	
+Ezequiel Simonit
+20	1	
+6	0	0
+2091T	
+-14
+RUS	
+Zakhar Trapeznikov
+24	1	
+6	1	0
+2091T	
+CHN	
+Aoran Wang
+25	1	
++1
+6	0	0
+2113T	
+-15
+FRA	
+Mikail Alimli
+18	1	
+7	0	0
+2113T	
+-436
+ARG	
+Nicolas Bianchi
+25	1	
+-1
+7	1	0
+2113T	
+-15
+ITA	
+Luca Castagnola
+19	1	
+7	0	0
+2113T	
+-15
+BEL	
+Guillaume Dermiens
+22	1	
+7	0	0
+2113T	
+-15
+ROU	
+Vlad Andrei Dumitru
+25	1	
+7	0	0
+2113T	
+-15
+GER	
+Nico Hornitschek
+22	1	
+7	0	0
+2113T	
+-15
+CAN	
+Pavel Krainik
+29	1	
+7	1	0
+2113T	
+-15
+SVK	
+Kristof Minarik
+21	1	
+7	0	0
+2113T	
+-15
+SUI	
+Gabriele Moghini
+25	1	
+7	0	0
+2113T	
+-15
+SRB	
+Dusan Rajic
+23	1	
+7	1	0
+2113T	
+-15
+ALG	
+Youcef Rihane
+20	1	
+7	0	0
+2113T	
+-15
+COL	
+Felipe Santamaria
+25	1	
+7	0	0
+2113T	
+-436
+UKR	
+Pavel Shumeiko
+21	1	
+-1
+7	1	0
+2113T	
+-15
+KOR	
+MinKyu Song
+31	1	
+7	0	0
+2113T	
+-15
+CAN	
+Marko Stakusic
+19	1	
+7	0	0
+2128T	
+-30
+USA	
+Toby D. Boyer
+25	1	
+8	0	0
+2128T	
+-13
+FRA	
+Samuel Brosset
+24	1	
+8	0	0
+2128T	
+-13
+LUX	
+Raphael Calzi
+24	1	
+8	0	0
+2128T	
+-13
+THA	
+Thanapet Chanta
+22	1	
+8	0	0
+2128T	
+-13
+EGY	
+Sherif Makhlouf
+23	1	
+8	0	0
+2128T	
+-13
+KAZ	
+Timur Maulenov
+21	1	
+8	0	0
+2128T	
+-30
+VEN	
+Brandon Perez
+22	1	
+8	0	0
+2128T	
+-30
+FRA	
+Matt Ponchet
+17	1	
+8	0	0
+2128T	
+-13
+ITA	
+Giuseppe Tresca
+23	1	
+8	0	0
+2128T	
+-13
+THA	
+Pol Wattanakul
+26	1	
+8	0	0
+2138T	
+-15
+BRA	
+Mateo Barreiros Reyes
+21	1	
+9	0	0
+2138T	
+-15
+GER	
+Hendrik Jebens
+26	1	
+9	0	0
+2138T	
+-15
+CRO	
+Admir Kalender
+21	1	
+9	0	0
+2138T	
+-15
+JPN	
+Ren Nakamura
+27	1	
+9	1	0
+2138T	
+-15
+BLR	
+Daniil Ostapenkov
+19	1	
+9	0	0
+2143T	
+-15
+TUR	
+Umut Akkoyun
+21	1	
+10	0	0
+2143T	
+-15
+EGY	
+Akram El Sallaly
+24	1	
+10	0	0
+2143T	
+-15
+CZE	
+Dominik Kellovsky
+25	1	
+10	0	0
